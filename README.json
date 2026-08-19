@@ -1,57 +1,7 @@
 {
   "items": [
     {
-      "description": "Low light imaging and low light image enhancement have wild applications in our daily life and different scientific research fields, like night surveillance, automated driving, fluorescence microscopy, high speed imaging and so on. However, there is still a long way to go in dealing with these tasks, considering the great challenges in low photon counts, low SNR, complicated noise models, etc. Here, we collect a list of resources related to low light image enhancement, including datasets, methods/codes/papers, metrics, and so on. We hope this can help to provide some help to the development of new methods and solutions to the low light tasks.",
-      "items": [],
-      "title": "Introduction"
-    },
-    {
-      "description": ":high_brightness: News!",
-      "items": [],
-      "title": "Highlights"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Review and Benchmark"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Methods"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Learning-based methods"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Retinex-based methods"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Other methods"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Related Works"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Metrics"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -60,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337114354,
             "language": null,
             "last_commit": "2022-10-10T07:09:29Z",
             "owner": "Li-Chongyi",
@@ -74,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88829927,
             "language": "Matlab",
             "last_commit": "2018-06-28T09:14:34Z",
             "owner": "baidut",
@@ -88,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111885801,
             "language": "Matlab",
             "last_commit": "2017-11-26T09:21:50Z",
             "owner": "tiandaoxiaowu",
@@ -100,8 +53,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:59:22.930Z",
+    "last_updated": "2026-08-19T12:43:32.019Z",
     "original_repository": "zhihongz/awesome-low-light-image-enhancement",
+    "original_repository_id": 266464490,
     "original_repository_sha": "8bc90be73b920f528b3ea023d6d2aa5724a676bf",
     "enhanced_repository": "enhansome/enhansome-low-light-image-enhancement",
     "enhanced_repository_description": null,
