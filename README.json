@@ -5,6 +5,1753 @@
       "items": [
         {
           "node_type": "item",
+          "title": "ExDARK",
+          "description": "A collection of 7,363 low-light images from very low-light environments to twilight (i.e 10 different conditions) with 12 object classes (similar to PASCAL VOC) annotated on both image class level and local object bounding boxes. github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135195126,
+            "language": "MATLAB",
+            "last_commit": "2026-02-13T06:52:27Z",
+            "owner": "cs-chan",
+            "repo": "Exclusively-Dark-Image-Dataset",
+            "stars": 641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SICE",
+          "description": "A large-scale multi-exposure image dataset, which contains 589 elaborately selected high-resolution multi-exposure sequences with 4,413 images github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115532459,
+            "language": "C++",
+            "last_commit": "2019-09-03T01:27:06Z",
+            "owner": "csjcai",
+            "repo": "SICE",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DID",
+          "description": "A high-quality low-light video dataset with multiple exposures and cameras link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 678841107,
+            "language": null,
+            "last_commit": "2023-12-17T08:11:47Z",
+            "owner": "ciki000",
+            "repo": "DID",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DRV",
+          "description": "202 paired raw low-light image Dataset link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201836611,
+            "language": "Python",
+            "last_commit": "2019-10-31T18:41:35Z",
+            "owner": "cchen156",
+            "repo": "Seeing-Motion-in-the-Dark",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDSD",
+          "description": "Seeing Dynamic Scene in the Dark: High-Quality Video Dataset with Mechatronic Alignment github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 394552712,
+            "language": "Python",
+            "last_commit": "2022-03-27T07:47:25Z",
+            "owner": "JIA-Lab-research",
+            "repo": "SDSD",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LSRW",
+          "description": "R2RNet: Low-light Image Enhancement via Real-low to Real-normal Network; 3170 paired images using the Nikon camera and 2480 paired images using the Huawei mobile phone. github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379548668,
+            "language": "Python",
+            "last_commit": "2023-04-06T05:09:09Z",
+            "owner": "JianghaiSCU",
+            "repo": "R2RNet",
+            "stars": 193
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2017",
+              "description": "ACM Trans. Graph. Deep bilateral learning for real-time image enhancement pdf web code HDRNet",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 68033065,
+                "language": "Python",
+                "last_commit": "2023-04-09T23:11:32Z",
+                "owner": "google",
+                "repo": "hdrnet",
+                "stars": 878
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2018",
+              "description": "BMVC Deep Retinex Decomposition for Low-Light Enhancement pdf web code Retinex-Net",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149501989,
+                "language": "Python",
+                "last_commit": "2020-12-02T09:28:01Z",
+                "owner": "weichen582",
+                "repo": "RetinexNet",
+                "stars": 793
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2018",
+              "description": "BMVC MBLLEN: Low-light Image/Video Enhancement Using CNNs pdf web code MBLLEN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225551936,
+                "language": "Python",
+                "last_commit": "2021-12-01T15:27:13Z",
+                "owner": "Lvfeifan",
+                "repo": "MBLLEN",
+                "stars": 264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2018",
+              "description": "CVPR Learning to See in the Dark pdf web code dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128275689,
+                "language": "Python",
+                "last_commit": "2025-09-15T19:03:26Z",
+                "owner": "cchen156",
+                "repo": "Learning-to-See-in-the-Dark",
+                "stars": 5564
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2018",
+              "description": "IEEE TIP Learning a Deep Single Image Contrast Enhancer from Multi-Exposure Images pdf code SICE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115532459,
+                "language": "C++",
+                "last_commit": "2019-09-03T01:27:06Z",
+                "owner": "csjcai",
+                "repo": "SICE",
+                "stars": 350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2018",
+              "description": "ACM TOG Exposure: A White-Box Photo Post-Processing Framework pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121968459,
+                "language": "Python",
+                "last_commit": "2021-08-27T12:12:15Z",
+                "owner": "yuanming-hu",
+                "repo": "exposure",
+                "stars": 782
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2018",
+              "description": "FG conference GLADNet: Low-Light Enhancement Network with Global Awareness pdf web code dataset GLADNet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124161521,
+                "language": "CSS",
+                "last_commit": "2019-12-13T02:26:47Z",
+                "owner": "daooshee",
+                "repo": "fgworkshop18Gladnet",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2019",
+              "description": "IEEE TIP EnlightenGAN: Deep Light Enhancement without Paired Supervision code pdf EnlightenGAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192192752,
+                "language": "Python",
+                "last_commit": "2024-04-25T07:46:42Z",
+                "owner": "VITA-Group",
+                "repo": "EnlightenGAN",
+                "stars": 1091
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2019",
+              "description": "ACM MM Kindling the Darkness: A Practical Low-light Image Enhancer pdf code code+ KinD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105764657,
+                "language": "Python",
+                "last_commit": "2024-07-23T02:23:06Z",
+                "owner": "zhangyhuaee",
+                "repo": "KinD",
+                "stars": 346
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2019",
+              "description": "CVPR Underexposed Photo Enhancement Using Deep Illumination Estimation pdf code DeepUPE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177596575,
+                "language": "Python",
+                "last_commit": "2023-03-24T21:54:49Z",
+                "owner": "JIA-Lab-research",
+                "repo": "DeepUPE",
+                "stars": 583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2019",
+              "description": "ICME RDGAN: Retinex Decomposition Based Adversarial Learning for Low-Light Enhancement code pdf RDGAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176808751,
+                "language": "Python",
+                "last_commit": "2019-11-22T16:05:57Z",
+                "owner": "WangJY06",
+                "repo": "RDGAN",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2020",
+              "description": "CVPR Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement pdf web code Zero-DCE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234890460,
+                "language": "HTML",
+                "last_commit": "2024-01-12T02:00:12Z",
+                "owner": "Li-Chongyi",
+                "repo": "Zero-DCE",
+                "stars": 1065
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2020",
+              "description": "CVPR From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement pdf web slides DRBN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263089652,
+                "language": "Python",
+                "last_commit": "2022-04-25T06:09:41Z",
+                "owner": "flyywh",
+                "repo": "CVPR-2020-Semi-Low-Light",
+                "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2020",
+              "description": "CVPR DeepLPF: Deep Local Parametric Filters for Image Enhancement pdf code DeepLPF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242738911,
+                "language": "Python",
+                "last_commit": "2026-08-12T04:13:39Z",
+                "owner": "sjmoran",
+                "repo": "deeplpf-image-enhancement",
+                "stars": 258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2020",
+              "description": "IEEE PAMI Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time pdf code Image-Adaptive-3DLUT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278017089,
+                "language": "Python",
+                "last_commit": "2023-12-16T06:59:52Z",
+                "owner": "HuiZeng",
+                "repo": "Image-Adaptive-3DLUT",
+                "stars": 942
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2020",
+              "description": "IET Image Proc. Learning an Adaptive Model for Extreme Low-Light Raw Image Processing pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244861812,
+                "language": "Java",
+                "last_commit": "2020-05-30T10:40:05Z",
+                "owner": "binary-sky",
+                "repo": "ExtremeLowLight",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2020",
+              "description": "ArXiv Self-supervised Image Enhancement Network: Training with Low Light Images Only pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242824143,
+                "language": "Python",
+                "last_commit": "2023-03-16T03:44:53Z",
+                "owner": "hitzhangyu",
+                "repo": "Self-supervised-Image-Enhancement-Network-Training-With-Low-Light-Images-Only",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021",
+              "description": "IJCV Attention Guided Low-Light Image Enhancement with a Large Scale Low-Light Simulation Dataset pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 388053654,
+                "language": "Python",
+                "last_commit": "2021-07-22T22:27:23Z",
+                "owner": "yu-li",
+                "repo": "AGLLNet",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021",
+              "description": "CVPR Retinex-Inspired Unrolling with Cooperative Prior Architecture Search for Low-Light Image Enhancement pdf web code RUAS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 346706432,
+                "language": "Python",
+                "last_commit": "2021-03-17T10:32:52Z",
+                "owner": "dut-media-lab",
+                "repo": "RUAS",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021",
+              "description": "CVPR Deep Denoising of Flash and No-Flash Pairs for Photography in Low-Light Environments pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 386016756,
+                "language": "Python",
+                "last_commit": "2021-09-03T05:35:15Z",
+                "owner": "likesum",
+                "repo": "deepFnF",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021",
+              "description": "CVPR Learning Temporal Consistency for Low Light Video Enhancement from Single Images pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351440128,
+                "language": "Python",
+                "last_commit": "2022-09-02T12:14:10Z",
+                "owner": "zkawfanx",
+                "repo": "StableLLVE",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021",
+              "description": "ICCV Seeing Dynamic Scene in the Dark: A High-Quality Video Dataset with Mechatronic Alignment pdf code SDSD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394552712,
+                "language": "Python",
+                "last_commit": "2022-03-27T07:47:25Z",
+                "owner": "JIA-Lab-research",
+                "repo": "SDSD",
+                "stars": 233
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021",
+              "description": "ICCV HDR Video Reconstruction: A Coarse-to-Fine Network and a Real-World Benchmark Dataset pdf web code DeepHDRVideo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 393984938,
+                "language": "Python",
+                "last_commit": "2026-03-16T14:48:31Z",
+                "owner": "guanyingc",
+                "repo": "DeepHDRVideo",
+                "stars": 121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021",
+              "description": "ICCV Matching in the Dark: A Dataset for Matching Image Pairs of Low-Light Scenes pdf web code MID",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363403018,
+                "language": null,
+                "last_commit": "2024-03-19T07:29:40Z",
+                "owner": "Wenzhengchina",
+                "repo": "Matching-in-the-Dark",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021",
+              "description": "ICCV Adaptive Unfolding Total Variation Network for Low-Light Image Enhancement pdf code UTVNet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397449970,
+                "language": "Python",
+                "last_commit": "2024-12-13T11:12:20Z",
+                "owner": "CharlieZCJ",
+                "repo": "UTVNet",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021",
+              "description": "ICCVW LLVIP: A Visible-Infrared Paired Dataset for Low-Light Vision pdf code web LLVIP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 377085976,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-08-09T14:08:25Z",
+                "owner": "bupt-ai-cz",
+                "repo": "LLVIP",
+                "stars": 840
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021",
+              "description": "JVCIR R2RNet: Low-Light Image Enhancement via Real-Low to Real-Normal Network pdf code R2RNet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379548668,
+                "language": "Python",
+                "last_commit": "2023-04-06T05:09:09Z",
+                "owner": "JianghaiSCU",
+                "repo": "R2RNet",
+                "stars": 193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "CVPR Toward Fast, Flexible, and Robust Low-Light Image Enhancement pdf code SCI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 474653928,
+                "language": "HTML",
+                "last_commit": "2025-10-09T13:58:07Z",
+                "owner": "vis-opt-group",
+                "repo": "SCI",
+                "stars": 609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "CVPR URetinex-Net: Retinex-Based Deep Unfolding Network for Low-Light Image Enhancement pdf code URetinex-Net",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471233944,
+                "language": "Python",
+                "last_commit": "2025-01-21T16:35:03Z",
+                "owner": "AndersonYong",
+                "repo": "URetinex-Net",
+                "stars": 225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "CVPR Day-to-Night Image Synthesis for Training Nighttime Neural ISPs pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1036383648,
+                "language": "Python",
+                "last_commit": "2025-08-22T19:19:50Z",
+                "owner": "SamsungLabs",
+                "repo": "day-to-night",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "CVPR SNR-Aware Low-Light Image Enhancement pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471618069,
+                "language": "Python",
+                "last_commit": "2022-11-21T06:45:49Z",
+                "owner": "JIA-Lab-research",
+                "repo": "SNR-Aware-Low-Light-Enhance",
+                "stars": 1037
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "CVPR Abandoning the Bayer-Filter To See in the Dark pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469659212,
+                "language": "Python",
+                "last_commit": "2023-04-14T03:08:58Z",
+                "owner": "TCL-AILab",
+                "repo": "Abandon_Bayer-Filter_See_in_the_Dark",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "ECCV Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514501472,
+                "language": "HTML",
+                "last_commit": "2024-08-29T03:54:01Z",
+                "owner": "jinyeying",
+                "repo": "night-enhancement",
+                "stars": 465
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "ECCV Deep Fourier-Based Exposure Correction Network with Spatial-Frequency Interaction pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 513929493,
+                "language": "Python",
+                "last_commit": "2023-12-16T07:04:47Z",
+                "owner": "KevinJ-Huang",
+                "repo": "FECNet",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "ECCV LEDNet: Joint Low-Light Enhancement and Deblurring in the Dark pdf code LEDNet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 510203032,
+                "language": "Python",
+                "last_commit": "2025-10-29T03:59:53Z",
+                "owner": "sczhou",
+                "repo": "LEDNet",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "AAAI Low-Light Image Enhancement with Normalizing Flow pdf code web LLFlow",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 433831867,
+                "language": "Python",
+                "last_commit": "2024-04-21T14:27:58Z",
+                "owner": "wyf0912",
+                "repo": "LLFlow",
+                "stars": 362
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "AAAI Semantically contrastive learning for low-light image enhancement pdf code web SCL-LLE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435729921,
+                "language": "Python",
+                "last_commit": "2022-07-08T05:22:38Z",
+                "owner": "LingLIx",
+                "repo": "SCL-LLE",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "ACM MM ChebyLighter: Optimal Curve Estimation for Low-Light Image Enhancement pdf code ChebyLighter",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612261324,
+                "language": "Python",
+                "last_commit": "2023-03-10T14:56:08Z",
+                "owner": "eeerpjw",
+                "repo": "ChebyLighter",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "BMCV You only need 90K parameters to adapt light: a light weight transformer for image enhancement and exposure correction pdf code IAT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436154511,
+                "language": "Python",
+                "last_commit": "2024-02-27T01:44:49Z",
+                "owner": "cuiziteng",
+                "repo": "Illumination-Adaptive-Transformer",
+                "stars": 587
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "IJCV Low-Light Image Enhancement via Breaking down the Darkness pdf code Bread",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 433435869,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-05-02T11:37:45Z",
+                "owner": "mingcv",
+                "repo": "Bread",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "IEEE TCSVT EFINet: Restoration for Low-Light Images via Enhancement-Fusion Iterative Network pdf code EFINet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431349525,
+                "language": "Python",
+                "last_commit": "2026-06-10T05:40:05Z",
+                "owner": "kyrie111",
+                "repo": "EFINet",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "Information Fusion A Mutually Boosting Dual Sensor Computational Camera for High Quality Dark Videography pdf code DCMAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425442667,
+                "language": "Python",
+                "last_commit": "2022-05-28T08:55:56Z",
+                "owner": "jarrycyx",
+                "repo": "dual-channel-low-light-video-public",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "Pattern Recognit. TreEnhance: A tree search method for low-light image enhancement pdf code TreEnhance",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 578104999,
+                "language": "Python",
+                "last_commit": "2023-02-04T10:33:53Z",
+                "owner": "OcraM17",
+                "repo": "TreEnhance",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "AAAI Ultra-high-definition low-light image enhancement: A benchmark and transformer-based method pdf code web",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 581366947,
+                "language": "Python",
+                "last_commit": "2023-11-30T02:22:01Z",
+                "owner": "TaoWangzj",
+                "repo": "LLFormer",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "AAAI Polarization-Aware Low-Light Image Enhancement pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 587157290,
+                "language": "Python",
+                "last_commit": "2025-08-12T07:55:09Z",
+                "owner": "fourson",
+                "repo": "Polarization-Aware-Low-Light-Image-Enhancement",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "CVPR DNF: Decouple and feedback network for seeing in the dark pdf code DNF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618283887,
+                "language": "Python",
+                "last_commit": "2023-08-19T04:24:55Z",
+                "owner": "Srameo",
+                "repo": "DNF",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "CVPR Learning a simple low-light image enhancer from paired low-light instances pdf code PairLIE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611799450,
+                "language": "Python",
+                "last_commit": "2023-07-31T12:53:16Z",
+                "owner": "zhenqifu",
+                "repo": "PairLIE",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "CVPR Learning semantic-aware knowledge guidance for low-light image enhancement pdf code SKF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616034386,
+                "language": "Python",
+                "last_commit": "2024-10-14T06:55:27Z",
+                "owner": "langmanbusi",
+                "repo": "Semantic-Aware-Low-Light-Image-Enhancement",
+                "stars": 240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "CVPR Physics-guided ISO-Dependent sensor noise modeling for extreme low-light photography pdf code LLD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615930770,
+                "language": null,
+                "last_commit": "2024-05-27T12:21:53Z",
+                "owner": "happycaoyue",
+                "repo": "LLD",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "CVPR Visibility constrained wide-band illumination spectrum design for seeing-in-the-dark pdf code VCSD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617284416,
+                "language": "Python",
+                "last_commit": "2023-08-04T10:10:13Z",
+                "owner": "MyNiuuu",
+                "repo": "VCSD",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "IEEE TMM Glow in the Dark: Low-Light Image Enhancement with External Memory pdf code EMNet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661551526,
+                "language": "Python",
+                "last_commit": "2023-09-24T02:20:43Z",
+                "owner": "Lineves7",
+                "repo": "EMNet",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "IEEE TPAMI Learning With Nested Scene Modeling and Cooperative Architecture Search for Low-Light Vision pdf code RUAS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435752268,
+                "language": null,
+                "last_commit": "2021-12-07T04:40:42Z",
+                "owner": "vis-opt-group",
+                "repo": "RUAS",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "SIGGRAPH ASIA Low-light Image Enhancement with Wavelet-based Diffusion Models pdf code DiffLL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675564733,
+                "language": "Python",
+                "last_commit": "2024-07-08T14:31:07Z",
+                "owner": "JianghaiSCU",
+                "repo": "Diffusion-Low-Light",
+                "stars": 312
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "ACM MM CLE Diffusion: Controllable Light Enhancement Diffusion Model pdf code web CLE Diffusion",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 674303699,
+                "language": "Python",
+                "last_commit": "2024-02-29T19:01:12Z",
+                "owner": "YuyangYin",
+                "repo": "CLEDiffusion",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "ACM MM FourLLIE: Boosting Low-Light Image Enhancement by Fourier Frequency Information pdf code FourLLIE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 672166871,
+                "language": "Python",
+                "last_commit": "2024-03-21T16:19:33Z",
+                "owner": "wangchx67",
+                "repo": "FourLLIE",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "Pattern Recognit. SurroundNet: Towards effective low-light image enhancement pdf code SurroundNet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 415308825,
+                "language": "Python",
+                "last_commit": "2021-10-09T12:55:29Z",
+                "owner": "ouc-ocean-group",
+                "repo": "SurroundNet",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "ICCV Coherent event guided low-light video enhancement pdf code web EvLowLight",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 669995485,
+                "language": "Python",
+                "last_commit": "2024-06-13T15:35:46Z",
+                "owner": "sherrycattt",
+                "repo": "EvLowLight",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "ICCV Dancing in the dark: A benchmark towards general low-light video enhancement pdf code DID",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 678841107,
+                "language": null,
+                "last_commit": "2023-12-17T08:11:47Z",
+                "owner": "ciki000",
+                "repo": "DID",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "ICCV Empowering low-light image enhancer through customized learnable priors pdf code CUE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 670844149,
+                "language": "Python",
+                "last_commit": "2024-02-29T10:53:08Z",
+                "owner": "zheng980629",
+                "repo": "CUE",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "ICCV ExposureDiffusion: Learning to expose for low-light image enhancement pdf code ExposureDiffusion",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675973409,
+                "language": "Python",
+                "last_commit": "2023-08-25T04:30:50Z",
+                "owner": "wyf0912",
+                "repo": "ExposureDiffusion",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "ICCV Implicit neural representation for cooperative low-light image enhancement pdf code NeRCo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616323419,
+                "language": "Python",
+                "last_commit": "2024-03-18T02:53:48Z",
+                "owner": "Ysz2022",
+                "repo": "NeRCo",
+                "stars": 267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "ICCV Low-light image enhancement with multi-stage residue quantization and brightness-aware attention pdf code RQ-LLIE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 677382448,
+                "language": "Python",
+                "last_commit": "2024-04-04T12:36:18Z",
+                "owner": "LiuYunlong99",
+                "repo": "RQ-LLIE",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "ICCV Retinexformer: One-stage retinex-based transformer for low-light image enhancement pdf code Retinexformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666719111,
+                "language": "Python",
+                "last_commit": "2026-05-23T16:09:23Z",
+                "owner": "caiyuanhao1998",
+                "repo": "Retinexformer",
+                "stars": 1516
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "ICCV Lighting up NeRF via unsupervised decomposition and enhancement pdf code LLNeRF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666957868,
+                "language": "Python",
+                "last_commit": "2023-12-12T09:48:40Z",
+                "owner": "onpix",
+                "repo": "LLNeRF",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "ICCV Generalized Lightness Adaptation with Channel Selective Normalization pdf code CS-Norm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666345177,
+                "language": "Python",
+                "last_commit": "2024-01-22T13:28:21Z",
+                "owner": "mdyao",
+                "repo": "CSNorm",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "Appl. Mach. Learn. LoLi-IEA: low-light image enhancement algorithm pdf code LoLi-IEA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 703792897,
+                "language": "Python",
+                "last_commit": "2025-05-13T08:28:10Z",
+                "owner": "xingyumex",
+                "repo": "LoLi-IEA",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2024",
+              "description": "IEEE Sens. Lett. Integrating Graph Convolution Into a Deep Multilayer Framework for Low-Light Image Enhancement pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602038023,
+                "language": null,
+                "last_commit": "2025-07-23T11:18:52Z",
+                "owner": "santoshpanda1995",
+                "repo": "LightweightGCN-Model",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2024",
+              "description": "IEEE TIP AnlightenDiff: Anchoring Diffusion Probabilistic Model on Low Light Image Enhancement pdf code AnlightenDiff",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 877079516,
+                "language": "Python",
+                "last_commit": "2025-02-13T06:14:37Z",
+                "owner": "allanchan339",
+                "repo": "AnlightenDiff",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2024",
+              "description": "IEEE TCE Back Projection Generative Strategy for Low and Normal Light Image Pairs with Enhanced Statistical Fidelity and Diversity pdf code N2LDiff-BP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 895456414,
+                "language": "Python",
+                "last_commit": "2025-08-29T02:10:02Z",
+                "owner": "allanchan339",
+                "repo": "N2LDiff-BP",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2025",
+              "description": "ICLR (Spotlight) Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model pdf code Reti-Diff",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721054075,
+                "language": "Python",
+                "last_commit": "2025-06-03T19:14:48Z",
+                "owner": "ChunmingHe",
+                "repo": "Reti-Diff",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2025",
+              "description": "Digital Signal Process. CDAN: Convolutional dense attention-guided network for low-light image enhancement pdf code CDAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654935403,
+                "language": "Python",
+                "last_commit": "2025-03-09T17:09:08Z",
+                "owner": "SinaRaoufi",
+                "repo": "CDAN",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2025",
+              "description": "CVPR HVI: A New Color Space for Low-light Image Enhancement pdf code HVI-CIDNet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754705312,
+                "language": "Python",
+                "last_commit": "2026-03-09T13:47:42Z",
+                "owner": "Fediory",
+                "repo": "HVI-CIDNet",
+                "stars": 842
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2025",
+              "description": "ICIP RT-X Net: RGB-Thermal cross attention network for Low-Light Image Enhancement pdf code web RT-X Net",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 992063840,
+                "language": "Python",
+                "last_commit": "2025-11-06T04:10:57Z",
+                "owner": "jhakrraman",
+                "repo": "rt-xnet",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2025",
+              "description": "IJCV Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1098953150,
+                "language": "Python",
+                "last_commit": "2025-11-30T18:08:18Z",
+                "owner": "MIA-UIB",
+                "repo": "Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2026",
+              "description": "ESWA Towards lightest low-light image enhancement architecture for mobile devices pdf code LiteIE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1026775539,
+                "language": "Python",
+                "last_commit": "2026-02-20T06:23:47Z",
+                "owner": "mubaisam",
+                "repo": "LiteIE",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2026",
+              "description": "ArXiv Rethinking Low-Light Image Enhancement: A Log-Domain Intensity--Chromaticity Decoupling Perspective pdf code ICD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1226478410,
+                "language": "Python",
+                "last_commit": "2026-05-07T11:58:00Z",
+                "owner": "mubaisam",
+                "repo": "ICD",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Learning-based methods"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "See also: link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225597644,
+                "language": "JavaScript",
+                "last_commit": "2020-04-08T13:40:13Z",
+                "owner": "elliestath",
+                "repo": "HelpTest",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "HE-based methods"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "1997",
+              "description": "IEEE TIP A multiscale retinex for bridging the gap between color images and the human observation of scenes pdf code1 code2 MSRCR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90581345,
+                "language": "C++",
+                "last_commit": "2017-05-09T02:26:24Z",
+                "owner": "upcAutoLang",
+                "repo": "MSRCR-Restoration",
+                "stars": 192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2017",
+              "description": "IEEE TIP LIME: Low-Light Image Enhancement via Illumination Map Estimation pdf code1 code2 code3 LIME",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139822307,
+                "language": "MATLAB",
+                "last_commit": "2019-12-26T16:49:28Z",
+                "owner": "Sy-Zhang",
+                "repo": "LIME",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2017",
+              "description": "ICCV A Joint Intrinsic-Extrinsic Prior Model for Retinex pdf web code JieP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87491194,
+                "language": "C++",
+                "last_commit": "2017-10-17T15:09:54Z",
+                "owner": "caibolun",
+                "repo": "JieP",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2018",
+              "description": "IEEE TIP Structure-Revealing Low-Light Image Enhancement Via Robust Retinex Model pdf code1 code2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126291789,
+                "language": "Matlab",
+                "last_commit": "2018-10-27T09:45:20Z",
+                "owner": "martinli0822",
+                "repo": "Low-light-image-enhancement",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2018",
+              "description": "BMVC Deep Retinex Decomposition for Low-Light Enhancement pdf web code Retinex-Net",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149501989,
+                "language": "Python",
+                "last_commit": "2020-12-02T09:28:01Z",
+                "owner": "weichen582",
+                "repo": "RetinexNet",
+                "stars": 793
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2019",
+              "description": "Comput. Graphics Forum Dual illumination estimation for robust exposure correction pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249552973,
+                "language": "Python",
+                "last_commit": "2022-08-18T14:10:18Z",
+                "owner": "pvnieo",
+                "repo": "Low-light-Image-Enhancement",
+                "stars": 572
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2019",
+              "description": "ICME RDGAN: Retinex Decomposition Based Adversarial Learning for Low-Light Enhancement code pdf RDGAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176808751,
+                "language": "Python",
+                "last_commit": "2019-11-22T16:05:57Z",
+                "owner": "WangJY06",
+                "repo": "RDGAN",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021",
+              "description": "CVPR Retinex-Inspired Unrolling with Cooperative Prior Architecture Search for Low-Light Image Enhancement pdf web code RUAS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 346706432,
+                "language": "Python",
+                "last_commit": "2021-03-17T10:32:52Z",
+                "owner": "dut-media-lab",
+                "repo": "RUAS",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022",
+              "description": "CVPR URetinex-Net: Retinex-Based Deep Unfolding Network for Low-Light Image Enhancement pdf code URetinex-Net",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471233944,
+                "language": "Python",
+                "last_commit": "2025-01-21T16:35:03Z",
+                "owner": "AndersonYong",
+                "repo": "URetinex-Net",
+                "stars": 225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2023",
+              "description": "ICCV Retinexformer: One-stage retinex-based transformer for low-light image enhancement pdf code Retinexformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666719111,
+                "language": "Python",
+                "last_commit": "2026-05-23T16:09:23Z",
+                "owner": "caiyuanhao1998",
+                "repo": "Retinexformer",
+                "stars": 1516
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2025",
+              "description": "ICCV GT-Mean Loss: A Simple Yet Effective Solution for Brightness Mismatch in Low-Light Image Enhancement pdf code GT-Mean loss",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 890410220,
+                "language": "Python",
+                "last_commit": "2025-07-29T13:58:37Z",
+                "owner": "jingxiLiao",
+                "repo": "GT-mean-loss",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2025",
+              "description": "ICLR (Spotlight) Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model pdf code Reti-Diff",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721054075,
+                "language": "Python",
+                "last_commit": "2025-06-03T19:14:48Z",
+                "owner": "ChunmingHe",
+                "repo": "Reti-Diff",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2025",
+              "description": "ICIP RT-X Net: RGB-Thermal cross attention network for Low-Light Image Enhancement pdf code web RT-X Net",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 992063840,
+                "language": "Python",
+                "last_commit": "2025-11-06T04:10:57Z",
+                "owner": "jhakrraman",
+                "repo": "rt-xnet",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2025",
+              "description": "IJCV Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1098953150,
+                "language": "Python",
+                "last_commit": "2025-11-30T18:08:18Z",
+                "owner": "MIA-UIB",
+                "repo": "Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Retinex-based methods"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2017",
+              "description": "ICCVW A New Low-Light Image Enhancement Algorithm Using Camera Response Model pdf code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88829927,
+                "language": "Matlab",
+                "last_commit": "2018-06-28T09:14:34Z",
+                "owner": "baidut",
+                "repo": "OpenCE",
+                "stars": 525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2017",
+              "description": "ArXiv A Bio-Inspired Multi-Exposure Fusion Framework for Low-light Image Enhancement pdf code BIMEF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98942505,
+                "language": "MATLAB",
+                "last_commit": "2019-03-16T15:23:45Z",
+                "owner": "baidut",
+                "repo": "BIMEF",
+                "stars": 275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2017",
+              "description": "ICCAIP A New Image Contrast Enhancement Algorithm Using Exposure Fusion Framework pdf web code1 code2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88829927,
+                "language": "Matlab",
+                "last_commit": "2018-06-28T09:14:34Z",
+                "owner": "baidut",
+                "repo": "OpenCE",
+                "stars": 525
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other methods"
+        }
+      ],
+      "title": "Methods"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2015",
+          "description": "ACM ToG Automatic Photo Adjustment Using Deep Neural Networks web code pdf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24733159,
+            "language": "Python",
+            "last_commit": "2015-09-02T07:20:10Z",
+            "owner": "stephenyan1231",
+            "repo": "dl-image-enhance",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "TMM Recurrent exposure generation for low-light face detection pdf code REGDet face detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 363212956,
+            "language": "Python",
+            "last_commit": "2021-04-30T18:33:53Z",
+            "owner": "sherrycattt",
+            "repo": "REGDet",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR HLA-Face: Joint High-Low Adaptation for Low Light Face Detection web pdf code HLA-Face face detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 353946242,
+            "language": "Python",
+            "last_commit": "2021-07-23T09:15:52Z",
+            "owner": "daooshee",
+            "repo": "HLA-Face-Code",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ICCV Multitask AET With Orthogonal Tangent Regularity for Dark Object Detection pdf code MAET object detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 416271346,
+            "language": "Python",
+            "last_commit": "2023-10-04T07:55:50Z",
+            "owner": "cuiziteng",
+            "repo": "ICCV_MAET",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ICCV Photon-Net: Photon-Starved Scene Inference using Single Photon Cameras pdf code video Photon-Net single photon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 312123665,
+            "language": "Python",
+            "last_commit": "2022-07-10T03:33:41Z",
+            "owner": "wision-lab",
+            "repo": "spclowlight",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ICCP Robust Scene Inference under Noise-Blur Dual Corruptions pdf code web Noise-Blur Dual object detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 509679803,
+            "language": null,
+            "last_commit": "2024-04-12T18:04:45Z",
+            "owner": "bhavyagoyal",
+            "repo": "noiseblurdual",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ICCV FeatEnHancer: Enhancing Hierarchical Features for Object Detection and Beyond Under Low-Light Vision pdf code Web FeatEnHancer object detection and semantic segmentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 803925253,
+            "language": "Python",
+            "last_commit": "2024-08-19T08:13:16Z",
+            "owner": "khurramHashmi",
+            "repo": "FeatEnHancer",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "IEEE TIP INFWIDE: Image and feature space wiener deconvolution network for non-blind image deblurring in low-light conditions pdf code INFWIDE deblurring",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 503334424,
+            "language": "Python",
+            "last_commit": "2023-03-01T13:36:19Z",
+            "owner": "zhihongz",
+            "repo": "INFWIDE",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "AAAI Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption pdf code web Aleth-NeRF NeRF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 612480340,
+            "language": "Python",
+            "last_commit": "2026-06-13T12:46:56Z",
+            "owner": "cuiziteng",
+            "repo": "Aleth-NeRF",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "Related Works"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learned Perceptual Image Patch Similarity",
+          "description": "LPIPS Full-Reference code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117034492,
+            "language": "Python",
+            "last_commit": "2024-07-02T17:30:14Z",
+            "owner": "richzhang",
+            "repo": "PerceptualSimilarity",
+            "stars": 4269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smartphone Photography Attribute and Quality",
+          "description": "SPAQ Non-Reference code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214942825,
+            "language": "Python",
+            "last_commit": "2024-01-17T07:55:44Z",
+            "owner": "h4nwei",
+            "repo": "SPAQ",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Image Assessment",
+          "description": "NIMA Non-Reference pytorch tensorflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121835729,
+            "language": "Python",
+            "last_commit": "2021-11-10T11:36:17Z",
+            "owner": "yunxiaoshi",
+            "repo": "Neural-IMage-Assessment",
+            "stars": 585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-scale Image Quality Transformer",
+          "description": "MUSIQ Non-Reference code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151619717,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-21T19:58:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38611
+          }
+        }
+      ],
+      "title": "Metrics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open",
           "description": null,
           "children": [],
@@ -53,7 +1800,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:54:12.753Z",
+    "last_updated": "2026-08-24T14:07:49.349Z",
     "original_repository": "zhihongz/awesome-low-light-image-enhancement",
     "original_repository_id": 266464490,
     "original_repository_sha": "8bc90be73b920f528b3ea023d6d2aa5724a676bf",
