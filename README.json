@@ -758,7 +758,7 @@
                 "last_commit": "2023-11-30T02:22:01Z",
                 "owner": "TaoWangzj",
                 "repo": "LLFormer",
-                "stars": 239
+                "stars": 240
               }
             },
             {
@@ -1148,7 +1148,7 @@
                 "last_commit": "2025-06-03T19:14:48Z",
                 "owner": "ChunmingHe",
                 "repo": "Reti-Diff",
-                "stars": 125
+                "stars": 124
               }
             },
             {
@@ -1447,7 +1447,7 @@
                 "last_commit": "2025-06-03T19:14:48Z",
                 "owner": "ChunmingHe",
                 "repo": "Reti-Diff",
-                "stars": 125
+                "stars": 124
               }
             },
             {
@@ -1741,7 +1741,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38614
+            "stars": 38618
           }
         }
       ],
@@ -1800,7 +1800,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:15.137Z",
+    "last_updated": "2026-08-25T18:01:50.188Z",
     "original_repository": "zhihongz/awesome-low-light-image-enhancement",
     "original_repository_id": 266464490,
     "original_repository_sha": "8bc90be73b920f528b3ea023d6d2aa5724a676bf",
