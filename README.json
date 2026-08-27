@@ -488,7 +488,7 @@
                 "last_commit": "2025-08-09T14:08:25Z",
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 840
+                "stars": 842
               }
             },
             {
@@ -1696,7 +1696,7 @@
             "last_commit": "2024-07-02T17:30:14Z",
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4269
+            "stars": 4270
           }
         },
         {
@@ -1738,10 +1738,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38624
+            "stars": 38630
           }
         }
       ],
@@ -1800,9 +1800,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:27:03.589Z",
-    "original_repository": "zhihongz/awesome-low-light-image-enhancement",
-    "original_repository_id": 266464490,
+    "last_updated": "2026-08-27T11:49:43.086Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 266464490,
+      "language": "MATLAB",
+      "last_commit": "2026-05-12T12:34:13Z",
+      "owner": "zhihongz",
+      "repo": "awesome-low-light-image-enhancement",
+      "stars": 1846
+    },
     "original_repository_sha": "8bc90be73b920f528b3ea023d6d2aa5724a676bf",
     "enhanced_repository": "enhansome/enhansome-low-light-image-enhancement",
     "enhanced_repository_description": null,
