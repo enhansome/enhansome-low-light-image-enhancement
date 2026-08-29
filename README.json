@@ -1627,7 +1627,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1519,
+                "stars": 1521,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2251,7 +2251,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1519,
+                "stars": 1521,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2803,7 +2803,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38643,
+            "stars": 38650,
             "topics": [
               "ai",
               "machine-learning",
@@ -2895,7 +2895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:26:57.227Z",
+    "last_updated": "2026-08-29T19:58:40.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
