@@ -247,7 +247,7 @@
                 "open_issues": 77,
                 "owner": "cchen156",
                 "repo": "Learning-to-See-in-the-Dark",
-                "stars": 5565,
+                "stars": 5566,
                 "topics": [
                   "python",
                   "rawpy",
@@ -510,7 +510,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 941,
+                "stars": 942,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -882,7 +882,7 @@
                 "open_issues": 22,
                 "owner": "JIA-Lab-research",
                 "repo": "SNR-Aware-Low-Light-Enhance",
-                "stars": 1037,
+                "stars": 1038,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -962,7 +962,7 @@
                 "open_issues": 3,
                 "owner": "KevinJ-Huang",
                 "repo": "FECNet",
-                "stars": 91,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1627,7 +1627,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1521,
+                "stars": 1522,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2251,7 +2251,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1521,
+                "stars": 1522,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2803,7 +2803,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38650,
+            "stars": 38655,
             "topics": [
               "ai",
               "machine-learning",
@@ -2895,7 +2895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:58:40.474Z",
+    "last_updated": "2026-08-30T20:01:01.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
