@@ -479,7 +479,7 @@
                 "open_issues": 1,
                 "owner": "sjmoran",
                 "repo": "deeplpf-image-enhancement",
-                "stars": 257,
+                "stars": 258,
                 "topics": [
                   "adobe-upe",
                   "computational-photography",
@@ -1427,7 +1427,7 @@
                 "open_issues": 1,
                 "owner": "YuyangYin",
                 "repo": "CLEDiffusion",
-                "stars": 76,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1882,7 +1882,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2803,7 +2803,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38671,
+            "stars": 38680,
             "topics": [
               "ai",
               "machine-learning",
@@ -2895,7 +2895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T20:08:52.263Z",
+    "last_updated": "2026-09-02T20:05:36.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2907,7 +2907,7 @@
       "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1846,
+      "stars": 1847,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
