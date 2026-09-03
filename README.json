@@ -510,7 +510,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 942,
+                "stars": 943,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -1627,7 +1627,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1523,
+                "stars": 1524,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2251,7 +2251,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1523,
+                "stars": 1524,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2640,7 +2640,7 @@
             "open_issues": 7,
             "owner": "khurramHashmi",
             "repo": "FeatEnHancer",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "deep-learning",
               "feature-enhancer",
@@ -2724,7 +2724,7 @@
             "open_issues": 59,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4272,
+            "stars": 4274,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2799,11 +2799,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T14:53:17Z",
+            "last_commit": "2026-09-03T08:28:07Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38680,
+            "stars": 38690,
             "topics": [
               "ai",
               "machine-learning",
@@ -2895,7 +2895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T20:05:36.014Z",
+    "last_updated": "2026-09-03T20:07:32.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2907,7 +2907,7 @@
       "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1847,
+      "stars": 1848,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
