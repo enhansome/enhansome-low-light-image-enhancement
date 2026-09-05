@@ -510,7 +510,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 944,
+                "stars": 945,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -1406,7 +1406,7 @@
                 "open_issues": 0,
                 "owner": "JianghaiSCU",
                 "repo": "Diffusion-Low-Light",
-                "stars": 313,
+                "stars": 314,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2800,10 +2800,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T08:28:07Z",
-            "open_issues": 1989,
+            "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38690,
+            "stars": 38693,
             "topics": [
               "ai",
               "machine-learning",
@@ -2895,7 +2895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:50:32.688Z",
+    "last_updated": "2026-09-05T19:27:37.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
