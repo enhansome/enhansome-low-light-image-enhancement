@@ -121,7 +121,7 @@
             "open_issues": 9,
             "owner": "JIA-Lab-research",
             "repo": "SDSD",
-            "stars": 233,
+            "stars": 234,
             "topics": [
               "dynamic-video-dataset",
               "low-light-video-enhancement"
@@ -346,7 +346,7 @@
                 "open_issues": 23,
                 "owner": "VITA-Group",
                 "repo": "EnlightenGAN",
-                "stars": 1092,
+                "stars": 1093,
                 "topics": [
                   "gan",
                   "generative-adversarial-networks",
@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1067,
+                "stars": 1068,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -669,7 +669,7 @@
                 "open_issues": 9,
                 "owner": "JIA-Lab-research",
                 "repo": "SDSD",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "dynamic-video-dataset",
                   "low-light-video-enhancement"
@@ -1009,7 +1009,7 @@
                 "open_issues": 14,
                 "owner": "wyf0912",
                 "repo": "LLFlow",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1627,7 +1627,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1525,
+                "stars": 1526,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2251,7 +2251,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1525,
+                "stars": 1526,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2803,7 +2803,7 @@
             "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38693,
+            "stars": 38697,
             "topics": [
               "ai",
               "machine-learning",
@@ -2834,7 +2834,7 @@
             "open_issues": 29,
             "owner": "Li-Chongyi",
             "repo": "Lighting-the-Darkness-in-the-Deep-Learning-Era-Open",
-            "stars": 816,
+            "stars": 817,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2895,7 +2895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:27:37.820Z",
+    "last_updated": "2026-09-06T19:29:02.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
