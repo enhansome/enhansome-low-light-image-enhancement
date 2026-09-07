@@ -395,7 +395,7 @@
                 "open_issues": 40,
                 "owner": "JIA-Lab-research",
                 "repo": "DeepUPE",
-                "stars": 583,
+                "stars": 582,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1068,
+                "stars": 1069,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -819,7 +819,7 @@
                 "open_issues": 0,
                 "owner": "vis-opt-group",
                 "repo": "SCI",
-                "stars": 610,
+                "stars": 612,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 17,
                 "owner": "cuiziteng",
                 "repo": "Illumination-Adaptive-Transformer",
-                "stars": 587,
+                "stars": 588,
                 "topics": [
                   "bmvc",
                   "exposure-correction",
@@ -1331,7 +1331,7 @@
                 "open_issues": 0,
                 "owner": "MyNiuuu",
                 "repo": "VCSD",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "computer-vision",
                   "cvpr",
@@ -1627,7 +1627,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1526,
+                "stars": 1528,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2251,7 +2251,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1526,
+                "stars": 1528,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2430,7 +2430,7 @@
                 "open_issues": 2,
                 "owner": "baidut",
                 "repo": "BIMEF",
-                "stars": 275,
+                "stars": 276,
                 "topics": [
                   "computer-vision",
                   "exposure-fusion",
@@ -2563,7 +2563,7 @@
             "open_issues": 4,
             "owner": "cuiziteng",
             "repo": "ICCV_MAET",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "deep-learning",
               "iccv2021",
@@ -2799,11 +2799,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T08:28:07Z",
+            "last_commit": "2026-09-07T16:12:34Z",
             "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38697,
+            "stars": 38707,
             "topics": [
               "ai",
               "machine-learning",
@@ -2834,7 +2834,7 @@
             "open_issues": 29,
             "owner": "Li-Chongyi",
             "repo": "Lighting-the-Darkness-in-the-Deep-Learning-Era-Open",
-            "stars": 817,
+            "stars": 818,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2895,7 +2895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:29:02.119Z",
+    "last_updated": "2026-09-07T20:46:38.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
