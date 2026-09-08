@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1069,
+                "stars": 1070,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -765,7 +765,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -819,7 +819,7 @@
                 "open_issues": 0,
                 "owner": "vis-opt-group",
                 "repo": "SCI",
-                "stars": 612,
+                "stars": 613,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1310,7 +1310,7 @@
                 "open_issues": 5,
                 "owner": "happycaoyue",
                 "repo": "LLD",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1832,7 +1832,7 @@
                 "open_issues": 4,
                 "owner": "ChunmingHe",
                 "repo": "Reti-Diff",
-                "stars": 124,
+                "stars": 123,
                 "topics": [
                   "backlit-image-enhancement",
                   "low-light-image-enhancement",
@@ -2307,7 +2307,7 @@
                 "open_issues": 4,
                 "owner": "ChunmingHe",
                 "repo": "Reti-Diff",
-                "stars": 124,
+                "stars": 123,
                 "topics": [
                   "backlit-image-enhancement",
                   "low-light-image-enhancement",
@@ -2753,7 +2753,7 @@
             "open_issues": 10,
             "owner": "h4nwei",
             "repo": "SPAQ",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "dataset",
               "image-quality-assessment"
@@ -2799,11 +2799,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T16:12:34Z",
+            "last_commit": "2026-09-08T09:22:17Z",
             "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38707,
+            "stars": 38712,
             "topics": [
               "ai",
               "machine-learning",
@@ -2895,7 +2895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:46:38.939Z",
+    "last_updated": "2026-09-08T20:15:11.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
