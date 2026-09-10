@@ -222,7 +222,7 @@
                 "open_issues": 26,
                 "owner": "Lvfeifan",
                 "repo": "MBLLEN",
-                "stars": 264,
+                "stars": 265,
                 "topics": [
                   "low-light",
                   "low-light-image-enhancement",
@@ -346,7 +346,7 @@
                 "open_issues": 23,
                 "owner": "VITA-Group",
                 "repo": "EnlightenGAN",
-                "stars": 1093,
+                "stars": 1092,
                 "topics": [
                   "gan",
                   "generative-adversarial-networks",
@@ -470,13 +470,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Code for CVPR 2020 paper \"Deep Local Parametric Filters for Image Enhancement\"",
+                "description": "DeepLPF (CVPR 2020): interpretable image enhancement with learned cubic, graduated and elliptical filters. pip install, then 'deeplpf enhance photo.jpg'.",
                 "homepage": null,
                 "id": 242738911,
                 "language": "Python",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-09-09T15:38:11Z",
-                "open_issues": 2,
+                "license": "MIT",
+                "last_commit": "2026-09-10T17:06:22Z",
+                "open_issues": 1,
                 "owner": "sjmoran",
                 "repo": "deeplpf-image-enhancement",
                 "stars": 258,
@@ -487,7 +487,12 @@
                   "cvpr",
                   "cvpr2020",
                   "deep-learning",
+                  "image-enhancement",
+                  "image-processing",
+                  "low-level-vision",
                   "paper",
+                  "photo-editing",
+                  "pytorch",
                   "raw2rgb",
                   "rgb"
                 ]
@@ -1009,7 +1014,7 @@
                 "open_issues": 14,
                 "owner": "wyf0912",
                 "repo": "LLFlow",
-                "stars": 363,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1196,7 +1201,7 @@
                 "open_issues": 8,
                 "owner": "TaoWangzj",
                 "repo": "LLFormer",
-                "stars": 239,
+                "stars": 238,
                 "topics": [
                   "benchmark",
                   "low-light-image-enhancement",
@@ -1406,7 +1411,7 @@
                 "open_issues": 0,
                 "owner": "JianghaiSCU",
                 "repo": "Diffusion-Low-Light",
-                "stars": 314,
+                "stars": 313,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1627,7 +1632,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1530,
+                "stars": 1531,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1882,7 +1887,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 844,
+                "stars": 845,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2251,7 +2256,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1530,
+                "stars": 1531,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2799,11 +2804,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T16:18:29Z",
-            "open_issues": 1990,
+            "last_commit": "2026-09-10T00:21:25Z",
+            "open_issues": 1992,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38719,
+            "stars": 38723,
             "topics": [
               "ai",
               "machine-learning",
@@ -2895,7 +2900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T20:00:13.668Z",
+    "last_updated": "2026-09-10T20:00:30.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2907,7 +2912,7 @@
       "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1849,
+      "stars": 1848,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
