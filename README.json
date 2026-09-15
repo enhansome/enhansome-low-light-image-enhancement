@@ -51,7 +51,7 @@
             "open_issues": 8,
             "owner": "csjcai",
             "repo": "SICE",
-            "stars": 351,
+            "stars": 352,
             "topics": [
               "dataset",
               "image-enhancement",
@@ -247,7 +247,7 @@
                 "open_issues": 77,
                 "owner": "cchen156",
                 "repo": "Learning-to-See-in-the-Dark",
-                "stars": 5565,
+                "stars": 5566,
                 "topics": [
                   "python",
                   "rawpy",
@@ -272,7 +272,7 @@
                 "open_issues": 8,
                 "owner": "csjcai",
                 "repo": "SICE",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "dataset",
                   "image-enhancement",
@@ -374,7 +374,7 @@
                 "open_issues": 9,
                 "owner": "zhangyhuaee",
                 "repo": "KinD",
-                "stars": 346,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1072,
+                "stars": 1073,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -475,7 +475,7 @@
                 "id": 242738911,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T02:49:44Z",
+                "last_commit": "2026-09-15T01:36:31Z",
                 "open_issues": 0,
                 "owner": "sjmoran",
                 "repo": "deeplpf-image-enhancement",
@@ -887,7 +887,7 @@
                 "open_issues": 22,
                 "owner": "JIA-Lab-research",
                 "repo": "SNR-Aware-Low-Light-Enhance",
-                "stars": 1039,
+                "stars": 1040,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1629,10 +1629,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-23T16:09:23Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1536,
+                "stars": 1538,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2253,10 +2253,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-23T16:09:23Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1536,
+                "stars": 1538,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2804,11 +2804,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T00:21:25Z",
+            "last_commit": "2026-09-15T17:14:49Z",
             "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38758,
+            "stars": 38769,
             "topics": [
               "ai",
               "machine-learning",
@@ -2900,7 +2900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T21:02:59.863Z",
+    "last_updated": "2026-09-15T20:25:24.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
