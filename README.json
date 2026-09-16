@@ -174,7 +174,7 @@
                 "open_issues": 17,
                 "owner": "google",
                 "repo": "hdrnet",
-                "stars": 877,
+                "stars": 875,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -195,7 +195,7 @@
                 "open_issues": 23,
                 "owner": "weichen582",
                 "repo": "RetinexNet",
-                "stars": 794,
+                "stars": 795,
                 "topics": [
                   "computer-vision",
                   "image-enhancement",
@@ -346,7 +346,7 @@
                 "open_issues": 23,
                 "owner": "VITA-Group",
                 "repo": "EnlightenGAN",
-                "stars": 1093,
+                "stars": 1094,
                 "topics": [
                   "gan",
                   "generative-adversarial-networks",
@@ -475,7 +475,7 @@
                 "id": 242738911,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T01:36:31Z",
+                "last_commit": "2026-09-16T16:10:09Z",
                 "open_issues": 0,
                 "owner": "sjmoran",
                 "repo": "deeplpf-image-enhancement",
@@ -487,14 +487,18 @@
                   "cvpr",
                   "cvpr2020",
                   "deep-learning",
+                  "elliptical-filter",
+                  "graduated-filter",
                   "image-enhancement",
                   "image-processing",
+                  "local-parametric-filters",
                   "low-level-vision",
+                  "mit-adobe-fivek",
                   "paper",
                   "photo-editing",
+                  "photo-retouching",
                   "pytorch",
-                  "raw2rgb",
-                  "rgb"
+                  "raw2rgb"
                 ]
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1336,7 +1340,7 @@
                 "open_issues": 0,
                 "owner": "MyNiuuu",
                 "repo": "VCSD",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "computer-vision",
                   "cvpr",
@@ -1632,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1538,
+                "stars": 1540,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1791,7 +1795,7 @@
                 "id": 877079516,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2025-02-13T06:14:37Z",
+                "last_commit": "2026-09-16T12:53:48Z",
                 "open_issues": 1,
                 "owner": "allanchan339",
                 "repo": "AnlightenDiff",
@@ -1833,7 +1837,7 @@
                 "id": 721054075,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-14T06:16:00Z",
+                "last_commit": "2026-09-16T13:19:16Z",
                 "open_issues": 4,
                 "owner": "ChunmingHe",
                 "repo": "Reti-Diff",
@@ -2137,7 +2141,7 @@
                 "open_issues": 23,
                 "owner": "weichen582",
                 "repo": "RetinexNet",
-                "stars": 794,
+                "stars": 795,
                 "topics": [
                   "computer-vision",
                   "image-enhancement",
@@ -2256,7 +2260,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1538,
+                "stars": 1540,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2308,7 +2312,7 @@
                 "id": 721054075,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-14T06:16:00Z",
+                "last_commit": "2026-09-16T13:19:16Z",
                 "open_issues": 4,
                 "owner": "ChunmingHe",
                 "repo": "Reti-Diff",
@@ -2729,7 +2733,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4275,
+            "stars": 4276,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2758,7 +2762,7 @@
             "open_issues": 10,
             "owner": "h4nwei",
             "repo": "SPAQ",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "dataset",
               "image-quality-assessment"
@@ -2804,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T17:14:49Z",
+            "last_commit": "2026-09-16T19:46:42Z",
             "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38769,
+            "stars": 38776,
             "topics": [
               "ai",
               "machine-learning",
@@ -2900,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T20:25:24.501Z",
+    "last_updated": "2026-09-16T20:24:54.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
