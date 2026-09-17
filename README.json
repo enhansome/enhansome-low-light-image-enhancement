@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "cs-chan",
             "repo": "Exclusively-Dark-Image-Dataset",
-            "stars": 641,
+            "stars": 640,
             "topics": [
               "computer-vision",
               "dataset",
@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1073,
+                "stars": 1074,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -774,7 +774,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -828,7 +828,7 @@
                 "open_issues": 0,
                 "owner": "vis-opt-group",
                 "repo": "SCI",
-                "stars": 614,
+                "stars": 615,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -891,7 +891,7 @@
                 "open_issues": 22,
                 "owner": "JIA-Lab-research",
                 "repo": "SNR-Aware-Low-Light-Enhance",
-                "stars": 1040,
+                "stars": 1041,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1231,7 +1231,7 @@
                 "open_issues": 0,
                 "owner": "fourson",
                 "repo": "Polarization-Aware-Low-Light-Image-Enhancement",
-                "stars": 34,
+                "stars": 35,
                 "topics": [
                   "deep-learning",
                   "low-light-image-enhancement",
@@ -1415,7 +1415,7 @@
                 "open_issues": 0,
                 "owner": "JianghaiSCU",
                 "repo": "Diffusion-Low-Light",
-                "stars": 313,
+                "stars": 314,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1841,7 +1841,7 @@
                 "open_issues": 4,
                 "owner": "ChunmingHe",
                 "repo": "Reti-Diff",
-                "stars": 123,
+                "stars": 124,
                 "topics": [
                   "backlit-image-enhancement",
                   "low-light-image-enhancement",
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2001,7 +2001,7 @@
                 "open_issues": 2,
                 "owner": "mubaisam",
                 "repo": "ICD",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2316,7 +2316,7 @@
                 "open_issues": 4,
                 "owner": "ChunmingHe",
                 "repo": "Reti-Diff",
-                "stars": 123,
+                "stars": 124,
                 "topics": [
                   "backlit-image-enhancement",
                   "low-light-image-enhancement",
@@ -2786,7 +2786,7 @@
             "open_issues": 24,
             "owner": "yunxiaoshi",
             "repo": "Neural-IMage-Assessment",
-            "stars": 585,
+            "stars": 586,
             "topics": [
               "computer-vision",
               "image-enhancement",
@@ -2812,7 +2812,7 @@
             "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38776,
+            "stars": 38784,
             "topics": [
               "ai",
               "machine-learning",
@@ -2843,7 +2843,7 @@
             "open_issues": 29,
             "owner": "Li-Chongyi",
             "repo": "Lighting-the-Darkness-in-the-Deep-Learning-Era-Open",
-            "stars": 820,
+            "stars": 819,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:24:54.768Z",
+    "last_updated": "2026-09-17T20:32:38.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2916,7 +2916,7 @@
       "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1849,
+      "stars": 1848,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
