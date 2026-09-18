@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "cs-chan",
             "repo": "Exclusively-Dark-Image-Dataset",
-            "stars": 640,
+            "stars": 641,
             "topics": [
               "computer-vision",
               "dataset",
@@ -195,7 +195,7 @@
                 "open_issues": 23,
                 "owner": "weichen582",
                 "repo": "RetinexNet",
-                "stars": 795,
+                "stars": 796,
                 "topics": [
                   "computer-vision",
                   "image-enhancement",
@@ -849,7 +849,7 @@
                 "open_issues": 19,
                 "owner": "AndersonYong",
                 "repo": "URetinex-Net",
-                "stars": 225,
+                "stars": 226,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1540,
+                "stars": 1542,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1841,7 +1841,7 @@
                 "open_issues": 4,
                 "owner": "ChunmingHe",
                 "repo": "Reti-Diff",
-                "stars": 124,
+                "stars": 123,
                 "topics": [
                   "backlit-image-enhancement",
                   "low-light-image-enhancement",
@@ -2141,7 +2141,7 @@
                 "open_issues": 23,
                 "owner": "weichen582",
                 "repo": "RetinexNet",
-                "stars": 795,
+                "stars": 796,
                 "topics": [
                   "computer-vision",
                   "image-enhancement",
@@ -2239,7 +2239,7 @@
                 "open_issues": 19,
                 "owner": "AndersonYong",
                 "repo": "URetinex-Net",
-                "stars": 225,
+                "stars": 226,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2260,7 +2260,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1540,
+                "stars": 1542,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2295,7 +2295,7 @@
                 "open_issues": 4,
                 "owner": "jingxiLiao",
                 "repo": "GT-mean-loss",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2316,7 +2316,7 @@
                 "open_issues": 4,
                 "owner": "ChunmingHe",
                 "repo": "Reti-Diff",
-                "stars": 124,
+                "stars": 123,
                 "topics": [
                   "backlit-image-enhancement",
                   "low-light-image-enhancement",
@@ -2733,7 +2733,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4276,
+            "stars": 4277,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2812,7 +2812,7 @@
             "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38784,
+            "stars": 38788,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:32:38.275Z",
+    "last_updated": "2026-09-18T19:56:20.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
