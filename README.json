@@ -51,7 +51,7 @@
             "open_issues": 8,
             "owner": "csjcai",
             "repo": "SICE",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "dataset",
               "image-enhancement",
@@ -272,7 +272,7 @@
                 "open_issues": 8,
                 "owner": "csjcai",
                 "repo": "SICE",
-                "stars": 352,
+                "stars": 353,
                 "topics": [
                   "dataset",
                   "image-enhancement",
@@ -519,7 +519,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 945,
+                "stars": 946,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1543,
+                "stars": 1544,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1980,7 +1980,7 @@
                 "open_issues": 2,
                 "owner": "mubaisam",
                 "repo": "LiteIE",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2260,7 +2260,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1543,
+                "stars": 1544,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2808,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T19:46:42Z",
+            "last_commit": "2026-09-21T20:40:25Z",
             "open_issues": 1995,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38805,
+            "stars": 38807,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:42:45.748Z",
+    "last_updated": "2026-09-21T21:13:46.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
