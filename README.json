@@ -1018,7 +1018,7 @@
                 "open_issues": 14,
                 "owner": "wyf0912",
                 "repo": "LLFlow",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1544,
+                "stars": 1545,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 849,
+                "stars": 850,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2260,7 +2260,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1544,
+                "stars": 1545,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2808,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T20:40:25Z",
+            "last_commit": "2026-09-21T21:46:37Z",
             "open_issues": 1995,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38807,
+            "stars": 38814,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:13:46.109Z",
+    "last_updated": "2026-09-22T20:27:49.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
