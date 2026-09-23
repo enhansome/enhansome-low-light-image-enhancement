@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "cs-chan",
             "repo": "Exclusively-Dark-Image-Dataset",
-            "stars": 641,
+            "stars": 643,
             "topics": [
               "computer-vision",
               "dataset",
@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1075,
+                "stars": 1076,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -519,7 +519,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 946,
+                "stars": 947,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -774,7 +774,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 848,
+                "stars": 850,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -870,7 +870,7 @@
                 "open_issues": 1,
                 "owner": "SamsungLabs",
                 "repo": "day-to-night",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -992,7 +992,7 @@
                 "open_issues": 13,
                 "owner": "sczhou",
                 "repo": "LEDNet",
-                "stars": 266,
+                "stars": 267,
                 "topics": [
                   "image-deblurring",
                   "image-enhancement",
@@ -2733,7 +2733,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4278,
+            "stars": 4279,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2808,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T21:46:37Z",
-            "open_issues": 1995,
+            "last_commit": "2026-09-23T12:02:29Z",
+            "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38814,
+            "stars": 38820,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T20:27:49.008Z",
+    "last_updated": "2026-09-23T20:40:16.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2916,7 +2916,7 @@
       "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1848,
+      "stars": 1849,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
