@@ -374,7 +374,7 @@
                 "open_issues": 9,
                 "owner": "zhangyhuaee",
                 "repo": "KinD",
-                "stars": 347,
+                "stars": 348,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -519,7 +519,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 947,
+                "stars": 946,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -992,7 +992,7 @@
                 "open_issues": 13,
                 "owner": "sczhou",
                 "repo": "LEDNet",
-                "stars": 267,
+                "stars": 268,
                 "topics": [
                   "image-deblurring",
                   "image-enhancement",
@@ -2733,7 +2733,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4279,
+            "stars": 4280,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2808,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T12:02:29Z",
+            "last_commit": "2026-09-23T21:53:54Z",
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38820,
+            "stars": 38828,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:40:16.441Z",
+    "last_updated": "2026-09-24T20:46:00.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
