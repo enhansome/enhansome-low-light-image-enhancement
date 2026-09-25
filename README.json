@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1076,
+                "stars": 1077,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -891,7 +891,7 @@
                 "open_issues": 22,
                 "owner": "JIA-Lab-research",
                 "repo": "SNR-Aware-Low-Light-Enhance",
-                "stars": 1041,
+                "stars": 1040,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2812,7 +2812,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38828,
+            "stars": 38833,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:46:00.139Z",
+    "last_updated": "2026-09-25T20:44:18.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
