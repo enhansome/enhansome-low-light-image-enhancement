@@ -774,7 +774,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 850,
+                "stars": 849,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -891,7 +891,7 @@
                 "open_issues": 22,
                 "owner": "JIA-Lab-research",
                 "repo": "SNR-Aware-Low-Light-Enhance",
-                "stars": 1040,
+                "stars": 1042,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1277,7 +1277,7 @@
                 "open_issues": 7,
                 "owner": "zhenqifu",
                 "repo": "PairLIE",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1545,
+                "stars": 1546,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2260,7 +2260,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1545,
+                "stars": 1546,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2812,7 +2812,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38833,
+            "stars": 38832,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:44:18.590Z",
+    "last_updated": "2026-09-26T20:07:22.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
