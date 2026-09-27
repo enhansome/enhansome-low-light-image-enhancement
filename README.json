@@ -174,7 +174,7 @@
                 "open_issues": 17,
                 "owner": "google",
                 "repo": "hdrnet",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -247,7 +247,7 @@
                 "open_issues": 77,
                 "owner": "cchen156",
                 "repo": "Learning-to-See-in-the-Dark",
-                "stars": 5565,
+                "stars": 5566,
                 "topics": [
                   "python",
                   "rawpy",
@@ -992,7 +992,7 @@
                 "open_issues": 13,
                 "owner": "sczhou",
                 "repo": "LEDNet",
-                "stars": 268,
+                "stars": 269,
                 "topics": [
                   "image-deblurring",
                   "image-enhancement",
@@ -1205,7 +1205,7 @@
                 "open_issues": 8,
                 "owner": "TaoWangzj",
                 "repo": "LLFormer",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "benchmark",
                   "low-light-image-enhancement",
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1546,
+                "stars": 1547,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2260,7 +2260,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1546,
+                "stars": 1547,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T20:07:22.096Z",
+    "last_updated": "2026-09-27T20:22:43.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
