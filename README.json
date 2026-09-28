@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "cs-chan",
             "repo": "Exclusively-Dark-Image-Dataset",
-            "stars": 643,
+            "stars": 644,
             "topics": [
               "computer-vision",
               "dataset",
@@ -51,7 +51,7 @@
             "open_issues": 8,
             "owner": "csjcai",
             "repo": "SICE",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "dataset",
               "image-enhancement",
@@ -272,7 +272,7 @@
                 "open_issues": 8,
                 "owner": "csjcai",
                 "repo": "SICE",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "dataset",
                   "image-enhancement",
@@ -346,7 +346,7 @@
                 "open_issues": 23,
                 "owner": "VITA-Group",
                 "repo": "EnlightenGAN",
-                "stars": 1094,
+                "stars": 1095,
                 "topics": [
                   "gan",
                   "generative-adversarial-networks",
@@ -774,7 +774,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 849,
+                "stars": 850,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1547,
+                "stars": 1548,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 850,
+                "stars": 852,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2260,7 +2260,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1547,
+                "stars": 1548,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2812,7 +2812,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38832,
+            "stars": 38839,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T20:22:43.754Z",
+    "last_updated": "2026-09-28T22:37:52.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2916,7 +2916,7 @@
       "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1849,
+      "stars": 1850,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
