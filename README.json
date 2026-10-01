@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 852,
+                "stars": 853,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2786,7 +2786,7 @@
             "open_issues": 24,
             "owner": "yunxiaoshi",
             "repo": "Neural-IMage-Assessment",
-            "stars": 586,
+            "stars": 587,
             "topics": [
               "computer-vision",
               "image-enhancement",
@@ -2812,7 +2812,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38856,
+            "stars": 38859,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:31:45.079Z",
+    "last_updated": "2026-10-01T21:59:38.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
