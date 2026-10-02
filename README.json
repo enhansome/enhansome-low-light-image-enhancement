@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "cs-chan",
             "repo": "Exclusively-Dark-Image-Dataset",
-            "stars": 644,
+            "stars": 645,
             "topics": [
               "computer-vision",
               "dataset",
@@ -174,7 +174,7 @@
                 "open_issues": 17,
                 "owner": "google",
                 "repo": "hdrnet",
-                "stars": 876,
+                "stars": 877,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1948,7 +1948,7 @@
                 "id": 1098953150,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-11-30T18:08:18Z",
+                "last_commit": "2026-10-02T07:24:24Z",
                 "open_issues": 0,
                 "owner": "MIA-UIB",
                 "repo": "Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement",
@@ -1980,7 +1980,7 @@
                 "open_issues": 2,
                 "owner": "mubaisam",
                 "repo": "LiteIE",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2370,7 +2370,7 @@
                 "id": 1098953150,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-11-30T18:08:18Z",
+                "last_commit": "2026-10-02T07:24:24Z",
                 "open_issues": 0,
                 "owner": "MIA-UIB",
                 "repo": "Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement",
@@ -2812,7 +2812,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38859,
+            "stars": 38862,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:59:38.621Z",
+    "last_updated": "2026-10-02T21:26:18.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
