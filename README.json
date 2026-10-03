@@ -2016,7 +2016,7 @@
             {
               "node_type": "item",
               "title": "See also: link",
-              "description": null,
+              "description": "elliestath/HelpTest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2812,7 +2812,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38862,
+            "stars": 38863,
             "topics": [
               "ai",
               "machine-learning",
@@ -2830,7 +2830,7 @@
         {
           "node_type": "item",
           "title": "Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open",
-          "description": null,
+          "description": "Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2851,7 +2851,7 @@
         {
           "node_type": "item",
           "title": "baidut/OpenCE",
-          "description": null,
+          "description": "baidut/OpenCE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2881,7 +2881,7 @@
         {
           "node_type": "item",
           "title": "tiandaoxiaowu/image-enhancement-about-Retinex",
-          "description": null,
+          "description": "tiandaoxiaowu/image-enhancement-about-Retinex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:26:18.336Z",
+    "last_updated": "2026-10-03T04:53:33.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",

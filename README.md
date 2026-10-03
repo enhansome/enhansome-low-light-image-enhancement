@@ -2,7 +2,7 @@
 
 **This is a resource list for low light image enhancement, including datasets, methods/codes/papers, metrics and so on.**
 
-Looking forward to your sharing! You can come up with your suggestions through [「PR」](https://github.com/zhihongz/awesome-low-light-image-enhancement/pulls) ⭐ 1,850 | 🐛 0 | 🌐 MATLAB | 📅 2026-05-12.
+Looking forward to your sharing! You can come up with your suggestions through [「PR」](https://github.com/zhihongz/awesome-low-light-image-enhancement/pulls).
 
 > :bulb: To facilitate reproducibility, papers with open-source code are welcome.
 
@@ -296,7 +296,7 @@ Low light imaging and low light image enhancement have wild applications in our 
 |              Mean Absolute Error             | MAE   | Full-Reference      | -                                                                                                                                                                                                                         |
 | Smartphone Photography Attribute and Quality | SPAQ  | Non-Reference       | [code](https://github.com/h4nwei/SPAQ) ⭐ 200 \| 🐛 10 \| 🌐 Python \| 📅 2024-01-17                                                                                                                                       |
 |            Neural Image Assessment           | NIMA  | Non-Reference       | [pytorch](https://github.com/kentsyx/Neural-IMage-Assessment) ⭐ 587 \| 🐛 24 \| 🌐 Python \| 📅 2021-11-10 [tensorflow](https://github.com/titu1994/neural-image-assessment) ⭐ 824 \| 🐛 14 \| 🌐 Python \| 📅 2019-07-05 |
-|     Multi-scale Image Quality Transformer    | MUSIQ | Non-Reference       | [code](https://github.com/google-research/google-research/tree/master/musiq) ⭐ 38,862 \| 🐛 1,996 \| 🌐 Jupyter Notebook \| 📅 2026-09-30                                                                                 |
+|     Multi-scale Image Quality Transformer    | MUSIQ | Non-Reference       | [code](https://github.com/google-research/google-research/tree/master/musiq) ⭐ 38,863 \| 🐛 1,996 \| 🌐 Jupyter Notebook \| 📅 2026-09-30                                                                                 |
 
 ## More reference
 
@@ -306,4 +306,4 @@ Low light imaging and low light image enhancement have wild applications in our 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
