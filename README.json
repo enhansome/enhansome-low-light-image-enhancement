@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "cs-chan",
             "repo": "Exclusively-Dark-Image-Dataset",
-            "stars": 647,
+            "stars": 649,
             "topics": [
               "computer-vision",
               "dataset",
@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1079,
+                "stars": 1080,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -519,7 +519,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 947,
+                "stars": 948,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1549,
+                "stars": 1548,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2260,7 +2260,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1549,
+                "stars": 1548,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2812,7 +2812,7 @@
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38871,
+            "stars": 38873,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T20:24:30.448Z",
+    "last_updated": "2026-10-05T23:21:15.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
