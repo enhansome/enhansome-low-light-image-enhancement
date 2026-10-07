@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1080,
+                "stars": 1081,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1548,
+                "stars": 1547,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2260,7 +2260,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1548,
+                "stars": 1547,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2439,7 +2439,7 @@
                 "open_issues": 2,
                 "owner": "baidut",
                 "repo": "BIMEF",
-                "stars": 276,
+                "stars": 277,
                 "topics": [
                   "computer-vision",
                   "exposure-fusion",
@@ -2808,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T21:03:49Z",
+            "last_commit": "2026-10-07T21:04:37Z",
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38878,
+            "stars": 38880,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:52:57.580Z",
+    "last_updated": "2026-10-07T22:15:43.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
