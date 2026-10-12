@@ -346,7 +346,7 @@
                 "open_issues": 23,
                 "owner": "VITA-Group",
                 "repo": "EnlightenGAN",
-                "stars": 1096,
+                "stars": 1097,
                 "topics": [
                   "gan",
                   "generative-adversarial-networks",
@@ -828,7 +828,7 @@
                 "open_issues": 0,
                 "owner": "vis-opt-group",
                 "repo": "SCI",
-                "stars": 616,
+                "stars": 618,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -992,7 +992,7 @@
                 "open_issues": 13,
                 "owner": "sczhou",
                 "repo": "LEDNet",
-                "stars": 269,
+                "stars": 268,
                 "topics": [
                   "image-deblurring",
                   "image-enhancement",
@@ -1060,7 +1060,7 @@
                 "open_issues": 1,
                 "owner": "eeerpjw",
                 "repo": "ChebyLighter",
-                "stars": 10,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1081,7 +1081,7 @@
                 "open_issues": 17,
                 "owner": "cuiziteng",
                 "repo": "Illumination-Adaptive-Transformer",
-                "stars": 589,
+                "stars": 588,
                 "topics": [
                   "bmvc",
                   "exposure-correction",
@@ -1205,7 +1205,7 @@
                 "open_issues": 8,
                 "owner": "TaoWangzj",
                 "repo": "LLFormer",
-                "stars": 240,
+                "stars": 239,
                 "topics": [
                   "benchmark",
                   "low-light-image-enhancement",
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 853,
+                "stars": 854,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2808,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T14:34:09Z",
+            "last_commit": "2026-10-12T13:39:16Z",
             "open_issues": 2005,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38897,
+            "stars": 38902,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T21:03:32.214Z",
+    "last_updated": "2026-10-12T23:45:25.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
