@@ -51,7 +51,7 @@
             "open_issues": 8,
             "owner": "csjcai",
             "repo": "SICE",
-            "stars": 354,
+            "stars": 353,
             "topics": [
               "dataset",
               "image-enhancement",
@@ -272,7 +272,7 @@
                 "open_issues": 8,
                 "owner": "csjcai",
                 "repo": "SICE",
-                "stars": 354,
+                "stars": 353,
                 "topics": [
                   "dataset",
                   "image-enhancement",
@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1083,
+                "stars": 1082,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -479,7 +479,7 @@
                 "open_issues": 0,
                 "owner": "sjmoran",
                 "repo": "deeplpf-image-enhancement",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "adobe-upe",
                   "computational-photography",
@@ -891,7 +891,7 @@
                 "open_issues": 22,
                 "owner": "JIA-Lab-research",
                 "repo": "SNR-Aware-Low-Light-Enhance",
-                "stars": 1042,
+                "stars": 1043,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1549,
+                "stars": 1552,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2260,7 +2260,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1549,
+                "stars": 1552,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2733,7 +2733,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4287,
+            "stars": 4288,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2808,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T06:27:55Z",
+            "last_commit": "2026-10-14T05:46:02Z",
             "open_issues": 2005,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38910,
+            "stars": 38915,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:56:51.370Z",
+    "last_updated": "2026-10-14T20:57:31.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2916,7 +2916,7 @@
       "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1853,
+      "stars": 1852,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
