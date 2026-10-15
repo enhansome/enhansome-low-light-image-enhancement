@@ -51,7 +51,7 @@
             "open_issues": 8,
             "owner": "csjcai",
             "repo": "SICE",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "dataset",
               "image-enhancement",
@@ -272,7 +272,7 @@
                 "open_issues": 8,
                 "owner": "csjcai",
                 "repo": "SICE",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "dataset",
                   "image-enhancement",
@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1082,
+                "stars": 1083,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -519,7 +519,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 947,
+                "stars": 948,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -774,7 +774,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 853,
+                "stars": 854,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -1205,7 +1205,7 @@
                 "open_issues": 8,
                 "owner": "TaoWangzj",
                 "repo": "LLFormer",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "benchmark",
                   "low-light-image-enhancement",
@@ -1587,7 +1587,7 @@
                 "open_issues": 4,
                 "owner": "Ysz2022",
                 "repo": "NeRCo",
-                "stars": 267,
+                "stars": 266,
                 "topics": [
                   "iccv",
                   "iccv2023",
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1552,
+                "stars": 1553,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 854,
+                "stars": 855,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2260,7 +2260,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1552,
+                "stars": 1553,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2808,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T05:46:02Z",
-            "open_issues": 2005,
+            "last_commit": "2026-10-15T02:18:00Z",
+            "open_issues": 2006,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38915,
+            "stars": 38922,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:57:31.220Z",
+    "last_updated": "2026-10-15T20:31:20.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2913,7 +2913,7 @@
       "language": "MATLAB",
       "license": null,
       "last_commit": "2026-05-12T12:34:13Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
       "stars": 1852,
