@@ -891,7 +891,7 @@
                 "open_issues": 22,
                 "owner": "JIA-Lab-research",
                 "repo": "SNR-Aware-Low-Light-Enhance",
-                "stars": 1044,
+                "stars": 1045,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 855,
+                "stars": 857,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2509,7 +2509,7 @@
             "open_issues": 4,
             "owner": "stephenyan1231",
             "repo": "dl-image-enhance",
-            "stars": 97,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2812,7 +2812,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38960,
+            "stars": 38985,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:44:21.547Z",
+    "last_updated": "2026-10-20T20:51:44.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
