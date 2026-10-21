@@ -346,7 +346,7 @@
                 "open_issues": 23,
                 "owner": "VITA-Group",
                 "repo": "EnlightenGAN",
-                "stars": 1097,
+                "stars": 1098,
                 "topics": [
                   "gan",
                   "generative-adversarial-networks",
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 857,
+                "stars": 856,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2733,7 +2733,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4288,
+            "stars": 4290,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2808,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T02:18:00Z",
-            "open_issues": 2008,
+            "last_commit": "2026-10-21T07:52:25Z",
+            "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38985,
+            "stars": 38999,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:51:44.052Z",
+    "last_updated": "2026-10-21T20:52:37.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2916,7 +2916,7 @@
       "open_issues": 1,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1852,
+      "stars": 1853,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
