@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "cs-chan",
             "repo": "Exclusively-Dark-Image-Dataset",
-            "stars": 653,
+            "stars": 654,
             "topics": [
               "computer-vision",
               "dataset",
@@ -475,8 +475,8 @@
                 "id": 242738911,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T16:10:09Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-23T23:47:49Z",
+                "open_issues": 1,
                 "owner": "sjmoran",
                 "repo": "deeplpf-image-enhancement",
                 "stars": 260,
@@ -519,7 +519,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 950,
+                "stars": 951,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -2733,7 +2733,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4301,
+            "stars": 4302,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2808,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T00:52:55Z",
-            "open_issues": 2009,
+            "last_commit": "2026-10-23T21:57:07Z",
+            "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39014,
+            "stars": 39016,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:37:32.317Z",
+    "last_updated": "2026-10-24T19:45:50.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
