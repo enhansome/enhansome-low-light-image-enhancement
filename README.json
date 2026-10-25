@@ -247,7 +247,7 @@
                 "open_issues": 77,
                 "owner": "cchen156",
                 "repo": "Learning-to-See-in-the-Dark",
-                "stars": 5568,
+                "stars": 5569,
                 "topics": [
                   "python",
                   "rawpy",
@@ -2808,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T21:57:07Z",
+            "last_commit": "2026-10-25T00:00:25Z",
             "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39016,
+            "stars": 39026,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:45:50.793Z",
+    "last_updated": "2026-10-25T19:56:02.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
