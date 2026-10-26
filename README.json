@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "cs-chan",
             "repo": "Exclusively-Dark-Image-Dataset",
-            "stars": 654,
+            "stars": 656,
             "topics": [
               "computer-vision",
               "dataset",
@@ -297,7 +297,7 @@
                 "open_issues": 25,
                 "owner": "yuanming-hu",
                 "repo": "exposure",
-                "stars": 783,
+                "stars": 782,
                 "topics": [
                   "computational-photography",
                   "deep-learning",
@@ -1415,7 +1415,7 @@
                 "open_issues": 0,
                 "owner": "JianghaiSCU",
                 "repo": "Diffusion-Low-Light",
-                "stars": 315,
+                "stars": 316,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 855,
+                "stars": 856,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2603,7 +2603,7 @@
             "open_issues": 0,
             "owner": "wision-lab",
             "repo": "spclowlight",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "iccv",
               "iccv2021",
@@ -2733,7 +2733,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4302,
+            "stars": 4303,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2786,7 +2786,7 @@
             "open_issues": 24,
             "owner": "yunxiaoshi",
             "repo": "Neural-IMage-Assessment",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "computer-vision",
               "image-enhancement",
@@ -2808,11 +2808,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T00:00:25Z",
+            "last_commit": "2026-10-26T20:10:08Z",
             "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39026,
+            "stars": 39037,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:56:02.528Z",
+    "last_updated": "2026-10-26T21:51:01.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2916,7 +2916,7 @@
       "open_issues": 1,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1855,
+      "stars": 1856,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
