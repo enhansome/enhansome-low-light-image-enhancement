@@ -346,7 +346,7 @@
                 "open_issues": 23,
                 "owner": "VITA-Group",
                 "repo": "EnlightenGAN",
-                "stars": 1098,
+                "stars": 1097,
                 "topics": [
                   "gan",
                   "generative-adversarial-networks",
@@ -1081,7 +1081,7 @@
                 "open_issues": 17,
                 "owner": "cuiziteng",
                 "repo": "Illumination-Adaptive-Transformer",
-                "stars": 588,
+                "stars": 587,
                 "topics": [
                   "bmvc",
                   "exposure-correction",
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1558,
+                "stars": 1559,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1757,7 +1757,7 @@
                 "open_issues": 3,
                 "owner": "santoshpanda1995",
                 "repo": "LightweightGCN-Model",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "cnn-keras",
                   "computer-vision",
@@ -2005,6 +2005,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "code ICIP A Multimodal Intrinsics-Guided Thermal-Aware Framework for RGB Low-Light Image Enhancement TIRGlow",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Multimodal Intrisincs-Guided Thermal-Aware Framework for RGB Low-Light Image Enhancement",
+                "homepage": null,
+                "id": 1228639162,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-20T07:16:21Z",
+                "open_issues": 0,
+                "owner": "simonemelc",
+                "repo": "TIRGlow",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-27T21:28:41.815Z"
             }
           ],
           "description": null,
@@ -2057,7 +2078,7 @@
                 "open_issues": 4,
                 "owner": "upcAutoLang",
                 "repo": "MSRCR-Restoration",
-                "stars": 192,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2260,7 +2281,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1558,
+                "stars": 1559,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2481,6 +2502,27 @@
                 ]
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pdf",
+              "description": "code ICIP A Multimodal Intrinsics-Guided Thermal-Aware Framework for RGB Low-Light Image Enhancement TIRGlow",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Multimodal Intrisincs-Guided Thermal-Aware Framework for RGB Low-Light Image Enhancement",
+                "homepage": null,
+                "id": 1228639162,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-20T07:16:21Z",
+                "open_issues": 0,
+                "owner": "simonemelc",
+                "repo": "TIRGlow",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-27T21:28:41.815Z"
             }
           ],
           "description": null,
@@ -2733,7 +2775,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4303,
+            "stars": 4304,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2808,11 +2850,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T20:10:08Z",
+            "last_commit": "2026-10-27T19:38:57Z",
             "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39037,
+            "stars": 39042,
             "topics": [
               "ai",
               "machine-learning",
@@ -2904,7 +2946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:51:01.678Z",
+    "last_updated": "2026-10-27T21:28:41.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2912,8 +2954,8 @@
       "id": 266464490,
       "language": "MATLAB",
       "license": null,
-      "last_commit": "2026-05-12T12:34:13Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-27T07:03:55Z",
+      "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
       "stars": 1856,
@@ -2930,7 +2972,7 @@
         "retinex"
       ]
     },
-    "original_repository_sha": "8bc90be73b920f528b3ea023d6d2aa5724a676bf",
+    "original_repository_sha": "8eee1ab5db83aaf4845b224bff8e97708d1b64e6",
     "enhanced_repository": "enhansome/enhansome-low-light-image-enhancement",
     "enhanced_repository_description": null,
     "title": "Awesome Low Light Image Enhancement with stars"
