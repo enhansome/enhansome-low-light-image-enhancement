@@ -247,7 +247,7 @@
                 "open_issues": 77,
                 "owner": "cchen156",
                 "repo": "Learning-to-See-in-the-Dark",
-                "stars": 5570,
+                "stars": 5569,
                 "topics": [
                   "python",
                   "rawpy",
@@ -519,7 +519,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 952,
+                "stars": 953,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -933,7 +933,7 @@
                 "open_issues": 2,
                 "owner": "jinyeying",
                 "repo": "night-enhancement",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "deep-learning",
                   "flare",
@@ -2775,7 +2775,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4305,
+            "stars": 4307,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2850,11 +2850,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T13:44:13Z",
+            "last_commit": "2026-10-29T16:49:00Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39046,
+            "stars": 39060,
             "topics": [
               "ai",
               "machine-learning",
@@ -2946,7 +2946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:54:03.647Z",
+    "last_updated": "2026-10-29T21:59:56.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
