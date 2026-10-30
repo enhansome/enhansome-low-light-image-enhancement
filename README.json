@@ -97,7 +97,7 @@
             "open_issues": 13,
             "owner": "cchen156",
             "repo": "Seeing-Motion-in-the-Dark",
-            "stars": 248,
+            "stars": 249,
             "topics": [
               "python",
               "tensorflow"
@@ -519,7 +519,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 953,
+                "stars": 954,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -727,7 +727,7 @@
                 "open_issues": 0,
                 "owner": "Wenzhengchina",
                 "repo": "Matching-in-the-Dark",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "dataset",
                   "deep-learning",
@@ -828,7 +828,7 @@
                 "open_issues": 0,
                 "owner": "vis-opt-group",
                 "repo": "SCI",
-                "stars": 618,
+                "stars": 619,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -992,7 +992,7 @@
                 "open_issues": 13,
                 "owner": "sczhou",
                 "repo": "LEDNet",
-                "stars": 268,
+                "stars": 269,
                 "topics": [
                   "image-deblurring",
                   "image-enhancement",
@@ -1319,7 +1319,7 @@
                 "open_issues": 5,
                 "owner": "happycaoyue",
                 "repo": "LLD",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1559,
+                "stars": 1560,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2281,7 +2281,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1559,
+                "stars": 1560,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2691,7 +2691,7 @@
             "open_issues": 7,
             "owner": "khurramHashmi",
             "repo": "FeatEnHancer",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "deep-learning",
               "feature-enhancer",
@@ -2775,7 +2775,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4307,
+            "stars": 4309,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2850,11 +2850,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T16:49:00Z",
+            "last_commit": "2026-10-30T17:33:25Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39060,
+            "stars": 39064,
             "topics": [
               "ai",
               "machine-learning",
@@ -2946,7 +2946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:59:56.546Z",
+    "last_updated": "2026-10-30T21:41:01.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
