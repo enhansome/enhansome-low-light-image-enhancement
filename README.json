@@ -771,7 +771,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2025-08-09T14:08:25Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
                 "stars": 857,
@@ -2316,7 +2316,7 @@
                 "open_issues": 4,
                 "owner": "jingxiLiao",
                 "repo": "GT-mean-loss",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2775,7 +2775,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4309,
+            "stars": 4310,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2850,11 +2850,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T17:33:25Z",
+            "last_commit": "2026-10-30T23:22:33Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39064,
+            "stars": 39074,
             "topics": [
               "ai",
               "machine-learning",
@@ -2946,7 +2946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:41:01.101Z",
+    "last_updated": "2026-10-31T20:39:50.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2958,7 +2958,7 @@
       "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1856,
+      "stars": 1857,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
