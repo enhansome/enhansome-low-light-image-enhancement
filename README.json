@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1560,
+                "stars": 1559,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1757,7 +1757,7 @@
                 "open_issues": 3,
                 "owner": "santoshpanda1995",
                 "repo": "LightweightGCN-Model",
-                "stars": 33,
+                "stars": 32,
                 "topics": [
                   "cnn-keras",
                   "computer-vision",
@@ -2281,7 +2281,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1560,
+                "stars": 1559,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2854,7 +2854,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39074,
+            "stars": 39083,
             "topics": [
               "ai",
               "machine-learning",
@@ -2946,7 +2946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:39:50.354Z",
+    "last_updated": "2026-11-01T21:21:56.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2955,7 +2955,7 @@
       "language": "MATLAB",
       "license": null,
       "last_commit": "2026-10-27T07:03:55Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
       "stars": 1857,
