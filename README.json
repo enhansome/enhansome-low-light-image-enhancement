@@ -297,7 +297,7 @@
                 "open_issues": 25,
                 "owner": "yuanming-hu",
                 "repo": "exposure",
-                "stars": 782,
+                "stars": 783,
                 "topics": [
                   "computational-photography",
                   "deep-learning",
@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1088,
+                "stars": 1089,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -479,7 +479,7 @@
                 "open_issues": 1,
                 "owner": "sjmoran",
                 "repo": "deeplpf-image-enhancement",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "adobe-upe",
                   "computational-photography",
@@ -519,7 +519,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 954,
+                "stars": 955,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -1081,7 +1081,7 @@
                 "open_issues": 17,
                 "owner": "cuiziteng",
                 "repo": "Illumination-Adaptive-Transformer",
-                "stars": 587,
+                "stars": 588,
                 "topics": [
                   "bmvc",
                   "exposure-correction",
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 856,
+                "stars": 859,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2614,7 +2614,7 @@
             "open_issues": 4,
             "owner": "cuiziteng",
             "repo": "ICCV_MAET",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "deep-learning",
               "iccv2021",
@@ -2790,6 +2790,34 @@
         },
         {
           "node_type": "item",
+          "title": "Jacobian Lens Distance",
+          "description": "JLD Full-Reference paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "JLD: Perceptual Distance through a Jacobian Lens. A label-free full-reference perceptual distance from a frozen vision encoder.",
+            "homepage": "https://shreshthsaini.github.io/jld/",
+            "id": 1391575839,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-07T07:24:38Z",
+            "open_issues": 0,
+            "owner": "shreshthsaini",
+            "repo": "jld",
+            "stars": 4,
+            "topics": [
+              "computer-vision",
+              "full-reference-iqa",
+              "image-quality-assessment",
+              "jacobian",
+              "perceptual-similarity",
+              "pytorch"
+            ]
+          },
+          "first_seen": "2026-11-03T00:01:44.037Z"
+        },
+        {
+          "node_type": "item",
           "title": "Smartphone Photography Attribute and Quality",
           "description": "SPAQ Non-Reference code",
           "children": [],
@@ -2854,7 +2882,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39083,
+            "stars": 39097,
             "topics": [
               "ai",
               "machine-learning",
@@ -2946,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T21:21:56.627Z",
+    "last_updated": "2026-11-03T00:01:44.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2954,11 +2982,11 @@
       "id": 266464490,
       "language": "MATLAB",
       "license": null,
-      "last_commit": "2026-10-27T07:03:55Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-02T02:46:30Z",
+      "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1857,
+      "stars": 1858,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
@@ -2972,7 +3000,7 @@
         "retinex"
       ]
     },
-    "original_repository_sha": "8eee1ab5db83aaf4845b224bff8e97708d1b64e6",
+    "original_repository_sha": "64032226643bd0e5ee744e15b0afcb73ed02eb88",
     "enhanced_repository": "enhansome/enhansome-low-light-image-enhancement",
     "enhanced_repository_description": null,
     "title": "Awesome Low Light Image Enhancement with stars"
