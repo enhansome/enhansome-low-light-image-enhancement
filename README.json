@@ -247,7 +247,7 @@
                 "open_issues": 77,
                 "owner": "cchen156",
                 "repo": "Learning-to-See-in-the-Dark",
-                "stars": 5569,
+                "stars": 5568,
                 "topics": [
                   "python",
                   "rawpy",
@@ -1081,7 +1081,7 @@
                 "open_issues": 17,
                 "owner": "cuiziteng",
                 "repo": "Illumination-Adaptive-Transformer",
-                "stars": 588,
+                "stars": 589,
                 "topics": [
                   "bmvc",
                   "exposure-correction",
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1559,
+                "stars": 1560,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2018,7 +2018,7 @@
                 "id": 1228639162,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-20T07:16:21Z",
+                "last_commit": "2026-11-04T13:32:27Z",
                 "open_issues": 0,
                 "owner": "simonemelc",
                 "repo": "TIRGlow",
@@ -2281,7 +2281,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1559,
+                "stars": 1560,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2515,7 +2515,7 @@
                 "id": 1228639162,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-20T07:16:21Z",
+                "last_commit": "2026-11-04T13:32:27Z",
                 "open_issues": 0,
                 "owner": "simonemelc",
                 "repo": "TIRGlow",
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T23:22:33Z",
-            "open_issues": 2009,
+            "last_commit": "2026-11-04T16:49:43Z",
+            "open_issues": 2010,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39101,
+            "stars": 39112,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:29:52.856Z",
+    "last_updated": "2026-11-04T22:51:44.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
