@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 859,
+                "stars": 858,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2018,7 +2018,7 @@
                 "id": 1228639162,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-04T13:32:27Z",
+                "last_commit": "2026-11-05T12:51:24Z",
                 "open_issues": 0,
                 "owner": "simonemelc",
                 "repo": "TIRGlow",
@@ -2515,7 +2515,7 @@
                 "id": 1228639162,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-04T13:32:27Z",
+                "last_commit": "2026-11-05T12:51:24Z",
                 "open_issues": 0,
                 "owner": "simonemelc",
                 "repo": "TIRGlow",
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T16:49:43Z",
-            "open_issues": 2010,
+            "last_commit": "2026-11-05T17:57:19Z",
+            "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39112,
+            "stars": 39118,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:51:44.042Z",
+    "last_updated": "2026-11-05T22:49:47.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
