@@ -992,7 +992,7 @@
                 "open_issues": 13,
                 "owner": "sczhou",
                 "repo": "LEDNet",
-                "stars": 269,
+                "stars": 270,
                 "topics": [
                   "image-deblurring",
                   "image-enhancement",
@@ -1632,7 +1632,7 @@
                 "id": 666719111,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-05-23T16:09:23Z",
+                "last_commit": "2026-11-07T19:41:23Z",
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
@@ -2277,7 +2277,7 @@
                 "id": 666719111,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-05-23T16:09:23Z",
+                "last_commit": "2026-11-07T19:41:23Z",
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
@@ -2882,7 +2882,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39122,
+            "stars": 39127,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:22:10.401Z",
+    "last_updated": "2026-11-07T21:04:51.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
