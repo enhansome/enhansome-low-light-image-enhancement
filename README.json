@@ -247,7 +247,7 @@
                 "open_issues": 77,
                 "owner": "cchen156",
                 "repo": "Learning-to-See-in-the-Dark",
-                "stars": 5567,
+                "stars": 5566,
                 "topics": [
                   "python",
                   "rawpy",
@@ -933,7 +933,7 @@
                 "open_issues": 2,
                 "owner": "jinyeying",
                 "repo": "night-enhancement",
-                "stars": 468,
+                "stars": 467,
                 "topics": [
                   "deep-learning",
                   "flare",
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1560,
+                "stars": 1561,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2281,7 +2281,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1560,
+                "stars": 1561,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2882,7 +2882,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39127,
+            "stars": 39139,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:04:51.466Z",
+    "last_updated": "2026-11-08T21:20:55.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2986,7 +2986,7 @@
       "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1859,
+      "stars": 1858,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
