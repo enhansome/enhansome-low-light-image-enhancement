@@ -828,7 +828,7 @@
                 "open_issues": 0,
                 "owner": "vis-opt-group",
                 "repo": "SCI",
-                "stars": 621,
+                "stars": 622,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -891,7 +891,7 @@
                 "open_issues": 22,
                 "owner": "JIA-Lab-research",
                 "repo": "SNR-Aware-Low-Light-Enhance",
-                "stars": 1046,
+                "stars": 1045,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1632,11 +1632,11 @@
                 "id": 666719111,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T19:41:23Z",
+                "last_commit": "2026-11-09T05:27:07Z",
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1561,
+                "stars": 1562,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 858,
+                "stars": 857,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2277,11 +2277,11 @@
                 "id": 666719111,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T19:41:23Z",
+                "last_commit": "2026-11-09T05:27:07Z",
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1561,
+                "stars": 1562,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T18:41:04Z",
+            "last_commit": "2026-11-09T18:10:16Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39139,
+            "stars": 39146,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:20:55.252Z",
+    "last_updated": "2026-11-10T00:50:52.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
