@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "cs-chan",
             "repo": "Exclusively-Dark-Image-Dataset",
-            "stars": 656,
+            "stars": 657,
             "topics": [
               "computer-vision",
               "dataset",
@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1089,
+                "stars": 1090,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2189,7 +2189,7 @@
                 "open_issues": 0,
                 "owner": "pvnieo",
                 "repo": "Low-light-Image-Enhancement",
-                "stars": 574,
+                "stars": 575,
                 "topics": [
                   "illumination-estimation",
                   "illumination-map-estimation",
@@ -2460,7 +2460,7 @@
                 "open_issues": 2,
                 "owner": "baidut",
                 "repo": "BIMEF",
-                "stars": 277,
+                "stars": 278,
                 "topics": [
                   "computer-vision",
                   "exposure-fusion",
@@ -2775,7 +2775,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4310,
+            "stars": 4309,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2882,7 +2882,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39146,
+            "stars": 39151,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:50:52.990Z",
+    "last_updated": "2026-11-10T22:30:33.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2986,7 +2986,7 @@
       "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1858,
+      "stars": 1859,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
