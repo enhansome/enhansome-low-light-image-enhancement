@@ -395,7 +395,7 @@
                 "open_issues": 40,
                 "owner": "JIA-Lab-research",
                 "repo": "DeepUPE",
-                "stars": 582,
+                "stars": 581,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -774,7 +774,7 @@
                 "open_issues": 35,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 858,
+                "stars": 859,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -1018,7 +1018,7 @@
                 "open_issues": 14,
                 "owner": "wyf0912",
                 "repo": "LLFlow",
-                "stars": 363,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1587,7 +1587,7 @@
                 "open_issues": 4,
                 "owner": "Ysz2022",
                 "repo": "NeRCo",
-                "stars": 266,
+                "stars": 265,
                 "topics": [
                   "iccv",
                   "iccv2023",
@@ -1632,7 +1632,7 @@
                 "id": 666719111,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T05:27:07Z",
+                "last_commit": "2026-11-11T16:48:50Z",
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
@@ -2277,7 +2277,7 @@
                 "id": 666719111,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T05:27:07Z",
+                "last_commit": "2026-11-11T16:48:50Z",
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T18:10:16Z",
+            "last_commit": "2026-11-11T11:58:31Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39151,
+            "stars": 39159,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:30:33.667Z",
+    "last_updated": "2026-11-11T23:41:52.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
