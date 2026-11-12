@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1562,
+                "stars": 1564,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1952,7 +1952,7 @@
                 "open_issues": 0,
                 "owner": "MIA-UIB",
                 "repo": "Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement",
-                "stars": 2,
+                "stars": 4,
                 "topics": [
                   "deep-learning",
                   "deep-unfolding",
@@ -1980,7 +1980,7 @@
                 "open_issues": 2,
                 "owner": "mubaisam",
                 "repo": "LiteIE",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2281,7 +2281,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1562,
+                "stars": 1564,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2395,7 +2395,7 @@
                 "open_issues": 0,
                 "owner": "MIA-UIB",
                 "repo": "Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement",
-                "stars": 2,
+                "stars": 4,
                 "topics": [
                   "deep-learning",
                   "deep-unfolding",
@@ -2775,7 +2775,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4309,
+            "stars": 4310,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2804,7 +2804,7 @@
             "open_issues": 0,
             "owner": "shreshthsaini",
             "repo": "jld",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "computer-vision",
               "full-reference-iqa",
@@ -2879,10 +2879,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T11:58:31Z",
-            "open_issues": 2009,
+            "open_issues": 2012,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39159,
+            "stars": 39162,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:41:52.781Z",
+    "last_updated": "2026-11-12T22:51:04.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
