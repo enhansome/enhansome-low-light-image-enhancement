@@ -247,7 +247,7 @@
                 "open_issues": 77,
                 "owner": "cchen156",
                 "repo": "Learning-to-See-in-the-Dark",
-                "stars": 5566,
+                "stars": 5567,
                 "topics": [
                   "python",
                   "rawpy",
@@ -828,7 +828,7 @@
                 "open_issues": 0,
                 "owner": "vis-opt-group",
                 "repo": "SCI",
-                "stars": 622,
+                "stars": 623,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1081,7 +1081,7 @@
                 "open_issues": 17,
                 "owner": "cuiziteng",
                 "repo": "Illumination-Adaptive-Transformer",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "bmvc",
                   "exposure-correction",
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1564,
+                "stars": 1566,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 857,
+                "stars": 858,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2281,7 +2281,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1564,
+                "stars": 1566,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T11:58:31Z",
-            "open_issues": 2012,
+            "last_commit": "2026-11-13T17:37:12Z",
+            "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39162,
+            "stars": 39169,
             "topics": [
               "ai",
               "machine-learning",
@@ -2913,7 +2913,7 @@
             "open_issues": 29,
             "owner": "Li-Chongyi",
             "repo": "Lighting-the-Darkness-in-the-Deep-Learning-Era-Open",
-            "stars": 821,
+            "stars": 822,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:51:04.151Z",
+    "last_updated": "2026-11-13T22:50:42.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
