@@ -51,7 +51,7 @@
             "open_issues": 8,
             "owner": "csjcai",
             "repo": "SICE",
-            "stars": 354,
+            "stars": 353,
             "topics": [
               "dataset",
               "image-enhancement",
@@ -272,7 +272,7 @@
                 "open_issues": 8,
                 "owner": "csjcai",
                 "repo": "SICE",
-                "stars": 354,
+                "stars": 353,
                 "topics": [
                   "dataset",
                   "image-enhancement",
@@ -1081,7 +1081,7 @@
                 "open_issues": 17,
                 "owner": "cuiziteng",
                 "repo": "Illumination-Adaptive-Transformer",
-                "stars": 590,
+                "stars": 589,
                 "topics": [
                   "bmvc",
                   "exposure-correction",
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T17:37:12Z",
+            "last_commit": "2026-11-14T12:36:20Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39169,
+            "stars": 39177,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:50:42.845Z",
+    "last_updated": "2026-11-14T21:40:04.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
