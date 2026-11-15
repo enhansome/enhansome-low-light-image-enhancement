@@ -121,7 +121,7 @@
             "open_issues": 9,
             "owner": "JIA-Lab-research",
             "repo": "SDSD",
-            "stars": 235,
+            "stars": 236,
             "topics": [
               "dynamic-video-dataset",
               "low-light-video-enhancement"
@@ -195,7 +195,7 @@
                 "open_issues": 23,
                 "owner": "weichen582",
                 "repo": "RetinexNet",
-                "stars": 800,
+                "stars": 801,
                 "topics": [
                   "computer-vision",
                   "image-enhancement",
@@ -297,7 +297,7 @@
                 "open_issues": 25,
                 "owner": "yuanming-hu",
                 "repo": "exposure",
-                "stars": 783,
+                "stars": 784,
                 "topics": [
                   "computational-photography",
                   "deep-learning",
@@ -395,7 +395,7 @@
                 "open_issues": 40,
                 "owner": "JIA-Lab-research",
                 "repo": "DeepUPE",
-                "stars": 581,
+                "stars": 582,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -519,7 +519,7 @@
                 "open_issues": 37,
                 "owner": "HuiZeng",
                 "repo": "Image-Adaptive-3DLUT",
-                "stars": 955,
+                "stars": 956,
                 "topics": [
                   "3d-luts",
                   "color-enhancement",
@@ -678,7 +678,7 @@
                 "open_issues": 9,
                 "owner": "JIA-Lab-research",
                 "repo": "SDSD",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "dynamic-video-dataset",
                   "low-light-video-enhancement"
@@ -774,7 +774,7 @@
                 "open_issues": 35,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 859,
+                "stars": 860,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -933,7 +933,7 @@
                 "open_issues": 2,
                 "owner": "jinyeying",
                 "repo": "night-enhancement",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "deep-learning",
                   "flare",
@@ -2162,7 +2162,7 @@
                 "open_issues": 23,
                 "owner": "weichen582",
                 "repo": "RetinexNet",
-                "stars": 800,
+                "stars": 801,
                 "topics": [
                   "computer-vision",
                   "image-enhancement",
@@ -2882,7 +2882,7 @@
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39177,
+            "stars": 39182,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:40:04.948Z",
+    "last_updated": "2026-11-15T22:03:53.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
