@@ -1415,7 +1415,7 @@
                 "open_issues": 0,
                 "owner": "JianghaiSCU",
                 "repo": "Diffusion-Low-Light",
-                "stars": 316,
+                "stars": 315,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1584,7 +1584,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-03-18T02:53:48Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Ysz2022",
                 "repo": "NeRCo",
                 "stars": 265,
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1568,
+                "stars": 1569,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 860,
+                "stars": 859,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2281,7 +2281,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1568,
+                "stars": 1569,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2614,7 +2614,7 @@
             "open_issues": 4,
             "owner": "cuiziteng",
             "repo": "ICCV_MAET",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "deep-learning",
               "iccv2021",
@@ -2775,7 +2775,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4312,
+            "stars": 4311,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T17:57:37Z",
+            "last_commit": "2026-11-18T22:14:55Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39208,
+            "stars": 39223,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:56:47.207Z",
+    "last_updated": "2026-11-18T23:34:24.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
