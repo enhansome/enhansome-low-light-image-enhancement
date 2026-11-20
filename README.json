@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "cs-chan",
             "repo": "Exclusively-Dark-Image-Dataset",
-            "stars": 657,
+            "stars": 658,
             "topics": [
               "computer-vision",
               "dataset",
@@ -931,7 +931,7 @@
                 "license": "MIT",
                 "last_commit": "2024-08-29T03:54:01Z",
                 "open_issues": 2,
-                "owner": "jinyeying",
+                "owner": "YeyingLab",
                 "repo": "night-enhancement",
                 "stars": 468,
                 "topics": [
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T15:52:19Z",
+            "last_commit": "2026-11-20T22:58:37Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39233,
+            "stars": 39245,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:47:01.783Z",
+    "last_updated": "2026-11-20T23:19:38.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
