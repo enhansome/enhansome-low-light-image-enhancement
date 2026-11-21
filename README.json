@@ -933,7 +933,7 @@
                 "open_issues": 2,
                 "owner": "YeyingLab",
                 "repo": "night-enhancement",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "deep-learning",
                   "flare",
@@ -1231,7 +1231,7 @@
                 "open_issues": 0,
                 "owner": "fourson",
                 "repo": "Polarization-Aware-Low-Light-Image-Enhancement",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "deep-learning",
                   "low-light-image-enhancement",
@@ -1952,7 +1952,7 @@
                 "open_issues": 0,
                 "owner": "MIA-UIB",
                 "repo": "Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "deep-learning",
                   "deep-unfolding",
@@ -2395,7 +2395,7 @@
                 "open_issues": 0,
                 "owner": "MIA-UIB",
                 "repo": "Nonlocal-Retinex-Deep-Unfolding-Low-Light-Enhancement",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "deep-learning",
                   "deep-unfolding",
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T22:58:37Z",
+            "last_commit": "2026-11-21T15:37:23Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39245,
+            "stars": 39250,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:19:38.653Z",
+    "last_updated": "2026-11-21T22:21:20.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
