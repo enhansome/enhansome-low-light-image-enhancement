@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "cs-chan",
             "repo": "Exclusively-Dark-Image-Dataset",
-            "stars": 658,
+            "stars": 656,
             "topics": [
               "computer-vision",
               "dataset",
@@ -195,7 +195,7 @@
                 "open_issues": 23,
                 "owner": "weichen582",
                 "repo": "RetinexNet",
-                "stars": 801,
+                "stars": 803,
                 "topics": [
                   "computer-vision",
                   "image-enhancement",
@@ -458,7 +458,7 @@
                 "open_issues": 3,
                 "owner": "flyywh",
                 "repo": "CVPR-2020-Semi-Low-Light",
-                "stars": 172,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -774,7 +774,7 @@
                 "open_issues": 35,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 859,
+                "stars": 858,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -828,7 +828,7 @@
                 "open_issues": 0,
                 "owner": "vis-opt-group",
                 "repo": "SCI",
-                "stars": 624,
+                "stars": 625,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -891,7 +891,7 @@
                 "open_issues": 22,
                 "owner": "JIA-Lab-research",
                 "repo": "SNR-Aware-Low-Light-Enhance",
-                "stars": 1045,
+                "stars": 1046,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1632,11 +1632,11 @@
                 "id": 666719111,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T16:48:50Z",
+                "last_commit": "2026-11-23T18:49:28Z",
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1571,
+                "stars": 1574,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1891,7 +1891,7 @@
                 "open_issues": 4,
                 "owner": "Fediory",
                 "repo": "HVI-CIDNet",
-                "stars": 859,
+                "stars": 857,
                 "topics": [
                   "cvpr",
                   "hvi-color-space",
@@ -2162,7 +2162,7 @@
                 "open_issues": 23,
                 "owner": "weichen582",
                 "repo": "RetinexNet",
-                "stars": 801,
+                "stars": 803,
                 "topics": [
                   "computer-vision",
                   "image-enhancement",
@@ -2189,7 +2189,7 @@
                 "open_issues": 0,
                 "owner": "pvnieo",
                 "repo": "Low-light-Image-Enhancement",
-                "stars": 574,
+                "stars": 575,
                 "topics": [
                   "illumination-estimation",
                   "illumination-map-estimation",
@@ -2277,11 +2277,11 @@
                 "id": 666719111,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T16:48:50Z",
+                "last_commit": "2026-11-23T18:49:28Z",
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1571,
+                "stars": 1574,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2832,7 +2832,7 @@
             "open_issues": 11,
             "owner": "h4nwei",
             "repo": "SPAQ",
-            "stars": 199,
+            "stars": 198,
             "topics": [
               "dataset",
               "image-quality-assessment"
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T15:37:23Z",
+            "last_commit": "2026-11-24T00:47:38Z",
             "open_issues": 2014,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39261,
+            "stars": 39269,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:46:00.690Z",
+    "last_updated": "2026-11-24T03:27:27.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
