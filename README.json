@@ -458,7 +458,7 @@
                 "open_issues": 3,
                 "owner": "flyywh",
                 "repo": "CVPR-2020-Semi-Low-Light",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1415,7 +1415,7 @@
                 "open_issues": 0,
                 "owner": "JianghaiSCU",
                 "repo": "Diffusion-Low-Light",
-                "stars": 315,
+                "stars": 316,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1575,
+                "stars": 1577,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2281,7 +2281,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1575,
+                "stars": 1577,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T22:16:08Z",
-            "open_issues": 2015,
+            "last_commit": "2026-11-25T23:54:31Z",
+            "open_issues": 2019,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39281,
+            "stars": 39430,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:35:13.788Z",
+    "last_updated": "2026-11-26T01:09:05.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
@@ -2986,7 +2986,7 @@
       "open_issues": 0,
       "owner": "zhihongz",
       "repo": "awesome-low-light-image-enhancement",
-      "stars": 1858,
+      "stars": 1859,
       "topics": [
         "computer-vision",
         "contrast-enhancement",
