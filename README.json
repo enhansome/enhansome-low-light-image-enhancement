@@ -195,7 +195,7 @@
                 "open_issues": 23,
                 "owner": "weichen582",
                 "repo": "RetinexNet",
-                "stars": 803,
+                "stars": 804,
                 "topics": [
                   "computer-vision",
                   "image-enhancement",
@@ -247,7 +247,7 @@
                 "open_issues": 77,
                 "owner": "cchen156",
                 "repo": "Learning-to-See-in-the-Dark",
-                "stars": 5567,
+                "stars": 5566,
                 "topics": [
                   "python",
                   "rawpy",
@@ -924,8 +924,8 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[ECCV2022] \"Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression\",  https://arxiv.org/abs/2207.10564",
-                "homepage": "https://github.com/jinyeying/night-enhancement",
+                "description": "[ECCV 2022] Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",
+                "homepage": "https://arxiv.org/abs/2207.10564",
                 "id": 514501472,
                 "language": "HTML",
                 "license": "MIT",
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1577,
+                "stars": 1579,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -1980,7 +1980,7 @@
                 "open_issues": 2,
                 "owner": "mubaisam",
                 "repo": "LiteIE",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -2162,7 +2162,7 @@
                 "open_issues": 23,
                 "owner": "weichen582",
                 "repo": "RetinexNet",
-                "stars": 803,
+                "stars": 804,
                 "topics": [
                   "computer-vision",
                   "image-enhancement",
@@ -2281,7 +2281,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1577,
+                "stars": 1579,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T23:54:31Z",
-            "open_issues": 2019,
+            "last_commit": "2026-11-26T08:37:24Z",
+            "open_issues": 2020,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39430,
+            "stars": 39526,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:09:05.436Z",
+    "last_updated": "2026-11-27T01:08:49.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
