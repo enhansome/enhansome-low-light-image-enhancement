@@ -437,7 +437,7 @@
                 "open_issues": 57,
                 "owner": "Li-Chongyi",
                 "repo": "Zero-DCE",
-                "stars": 1093,
+                "stars": 1094,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:41.007Z"
@@ -1081,7 +1081,7 @@
                 "open_issues": 17,
                 "owner": "cuiziteng",
                 "repo": "Illumination-Adaptive-Transformer",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "bmvc",
                   "exposure-correction",
@@ -1636,7 +1636,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1579,
+                "stars": 1580,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2189,7 +2189,7 @@
                 "open_issues": 0,
                 "owner": "pvnieo",
                 "repo": "Low-light-Image-Enhancement",
-                "stars": 575,
+                "stars": 576,
                 "topics": [
                   "illumination-estimation",
                   "illumination-map-estimation",
@@ -2281,7 +2281,7 @@
                 "open_issues": 2,
                 "owner": "caiyuanhao1998",
                 "repo": "Retinexformer",
-                "stars": 1579,
+                "stars": 1580,
                 "topics": [
                   "basicsr",
                   "detection",
@@ -2775,7 +2775,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4310,
+            "stars": 4309,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -2878,11 +2878,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T08:37:24Z",
-            "open_issues": 2020,
+            "last_commit": "2026-11-27T16:02:30Z",
+            "open_issues": 2023,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39526,
+            "stars": 39566,
             "topics": [
               "ai",
               "machine-learning",
@@ -2974,7 +2974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:08:49.007Z",
+    "last_updated": "2026-11-28T00:40:34.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a resouce list for low light image enhancement",
